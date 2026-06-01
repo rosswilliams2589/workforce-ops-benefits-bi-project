@@ -1,0 +1,51 @@
+vendor_id,vendor_name,department_id,vendor_category,contract_amount,monthly_spend,renewal_date
+V001,Cruz Ltd,D012,IT Services,136702,11870.28,2026-12-20
+V002,Martin-Rodgers,D012,Facilities,104363,9343.52,2026-07-07
+V003,Jordan and Sons,D010,Facilities,384958,37241.66,2026-07-01
+V004,Ayers and Sons,D004,Software,70449,6654.5,2027-04-26
+V005,Carr-Price,D003,Software,419498,37632.53,2027-05-12
+V006,Walker-Gonzalez,D010,Facilities,407735,38413.58,2026-08-04
+V007,Sexton Inc,D006,Consulting,250123,22001.24,2027-03-19
+V008,Gutierrez LLC,D003,Consulting,154911,13711.84,2026-11-03
+V009,"Mendez, Gay and Adams",D011,Benefits,69170,5587.4,2027-01-13
+V010,"French, Miles and Pena",D009,Recruiting,340096,29136.41,2026-10-12
+V011,Kerr-Lopez,D012,Consulting,343553,25667.11,2027-02-02
+V012,Daniel-Meza,D012,IT Services,39063,3336.26,2027-07-20
+V013,Bailey LLC,D005,Recruiting,132712,10792.12,2027-01-27
+V014,Lewis Ltd,D010,Benefits,292136,22892.97,2026-08-21
+V015,"Morris, Harper and Summers",D012,Consulting,230390,21452.05,2027-02-21
+V016,Henderson-Torres,D011,Benefits,53609,4416.24,2026-11-23
+V017,Olson and Sons,D008,Software,227315,20062.44,2026-10-14
+V018,Barry Ltd,D004,IT Services,286925,22938.53,2026-09-11
+V019,"Bender, Boyd and Burke",D010,Recruiting,62230,5182.57,2027-06-09
+V020,Rich Inc,D001,Consulting,214319,16562.32,2027-05-26
+V021,Riley-Roth,D003,Recruiting,227814,19213.07,2026-07-30
+V022,Cox-Hancock,D007,Recruiting,216581,19506.86,2026-07-06
+V023,Blair Ltd,D011,Facilities,115581,9564.94,2027-05-28
+V024,Miller-Richardson,D002,Recruiting,33750,2840.05,2027-07-31
+V025,Luna PLC,D002,Consulting,32231,2673.84,2026-07-02
+V026,Higgins PLC,D004,Software,45880,3999.55,2027-10-14
+V027,"Ferguson, Allen and Bond",D007,Consulting,290609,23603.9,2026-10-07
+V028,Hawkins-Bruce,D011,Recruiting,398622,28839.91,2027-03-11
+V029,"Hawkins, Harris and Rodriguez",D007,IT Services,247075,23005.23,2027-06-02
+V030,Hammond Inc,D007,IT Services,68215,5358.12,2027-06-18
+V031,Lopez-Ho,D009,Recruiting,306886,27206.56,2027-11-21
+V032,"Ramos, Young and James",D003,Software,170473,16290.23,2027-09-30
+V033,Stone-Dillon,D005,Recruiting,66430,6084.57,2027-10-01
+V034,"Taylor, Bryant and Norris",D004,Benefits,448656,35960.65,2027-03-13
+V035,"Terrell, Stanton and Sellers",D009,Facilities,196311,16907.57,2026-06-19
+V036,Griffin-Miller,D010,IT Services,357552,30090.17,2026-08-07
+V037,Johnson-Craig,D011,Software,362198,27146.05,2026-11-28
+V038,Villanueva Ltd,D005,Facilities,391307,31440.86,2027-09-16
+V039,Baldwin-Green,D012,Benefits,468793,38652.11,2027-02-25
+V040,Lowery PLC,D001,Software,153177,11357.59,2026-06-09
+V041,Decker and Sons,D007,Facilities,85810,6482.34,2026-12-27
+V042,"King, Mayer and Dixon",D010,Software,344203,29567.3,2026-12-14
+V043,Gonzalez Group,D005,IT Services,374217,36334.62,2027-01-18
+V044,Hill Ltd,D011,Benefits,413318,37337.04,2027-05-26
+V045,"Edwards, Snow and Wolf",D002,IT Services,31640,2816.58,2027-04-19
+V046,Henderson LLC,D003,Software,392787,32233.25,2027-01-01
+V047,"Owens, Castillo and Weber",D003,Consulting,285263,24035.45,2026-06-05
+V048,Washington-Richardson,D009,IT Services,296173,22589.35,2027-10-26
+V049,Rios PLC,D005,Consulting,112536,11166.61,2026-07-17
+V050,"Leach, Garcia and Hensley",D003,Consulting,418098,38876.05,2027-06-16

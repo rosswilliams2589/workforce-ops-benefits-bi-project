@@ -1,0 +1,13 @@
+department_id,department_name,business_unit,annual_budget,headcount_target
+D001,Operations,Operations,6863900,54
+D002,Customer Support,Operations,1709805,134
+D003,Finance,Corporate,3807113,71
+D004,Human Resources,Corporate,3372427,57
+D005,Information Technology,Technology,7677968,53
+D006,Sales,Revenue,7176566,134
+D007,Marketing,Revenue,6074866,51
+D008,Legal,Corporate,6453410,94
+D009,Analytics,Technology,1766612,43
+D010,Product,Technology,2285972,67
+D011,Compliance,Corporate,3451701,104
+D012,Administration,Corporate,6550099,43
