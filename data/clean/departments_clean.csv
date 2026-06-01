@@ -1,0 +1,13 @@
+department_id,department_name,business_unit,annual_budget,headcount_target,monthly_budget
+D001,Operations,Operations,6863900.0,54,571991.6666666666
+D002,Customer Support,Operations,1709805.0,134,142483.75
+D003,Finance,Corporate,3807113.0,71,317259.4166666667
+D004,Human Resources,Corporate,3372427.0,57,281035.5833333333
+D005,Information Technology,Technology,7677968.0,53,639830.6666666666
+D006,Sales,Revenue,7176566.0,134,598047.1666666666
+D007,Marketing,Revenue,6074866.0,51,506238.8333333333
+D008,Legal,Corporate,6453410.0,94,537784.1666666666
+D009,Analytics,Technology,1766612.0,43,147217.66666666666
+D010,Product,Technology,2285972.0,67,190497.66666666666
+D011,Compliance,Corporate,3451701.0,104,287641.75
+D012,Administration,Corporate,6550099.0,43,545841.5833333334

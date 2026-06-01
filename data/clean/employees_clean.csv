@@ -1,0 +1,1001 @@
+employee_id,first_name,last_name,department_id,job_level,location,hire_date,termination_date,employment_status,salary,manager_id,tenure_years,tenure_band,salary_band,terminated_flag,active_flag
+E0001,Elizabeth,Butler,D009,Analyst,Remote,2019-07-23,,Active,61515,E0734,6.86,5+ Years,$60K-$85K,0,1
+E0002,Raymond,Griffin,D012,Senior Analyst,Texas,2021-07-15,,Active,92856,E0430,4.88,3-5 Years,$85K-$115K,0,1
+E0003,Nathan,Bell,D008,Associate,Florida,2023-06-05,,Active,51115,E0829,2.99,1-3 Years,<$60K,0,1
+E0004,Elizabeth,Lopez,D003,Associate,Oklahoma,2020-09-24,,Active,55848,E0349,5.68,5+ Years,<$60K,0,1
+E0005,Jeffrey,Hayes,D003,Analyst,Oklahoma,2023-03-09,,Active,62055,E0981,3.23,3-5 Years,$60K-$85K,0,1
+E0006,Jennifer,Smith,D002,Associate,Florida,2019-11-26,,Active,45039,E0390,6.51,5+ Years,<$60K,0,1
+E0007,Joshua,Austin,D006,Senior Analyst,California,2025-07-04,,Active,102770,E0353,0.91,<1 Year,$85K-$115K,0,1
+E0008,Ralph,Sanders,D005,Associate,New York,2022-11-03,,Active,43423,E0748,3.58,3-5 Years,<$60K,0,1
+E0009,James,Foster,D009,Associate,New York,2021-04-01,,Active,46090,E0997,5.17,5+ Years,<$60K,0,1
+E0010,Jessica,Thompson,D002,Analyst,Remote,2025-04-05,,Active,73089,E0301,1.16,1-3 Years,$60K-$85K,0,1
+E0011,Richard,Jones,D010,Analyst,Texas,2018-06-11,,Active,66850,E0592,7.97,5+ Years,$60K-$85K,0,1
+E0012,Erica,Terry,D012,Associate,Remote,2021-01-30,,Active,44279,E0047,5.33,5+ Years,<$60K,0,1
+E0013,Joshua,Sanchez,D004,Analyst,Texas,2021-03-23,,Active,64482,E0082,5.19,5+ Years,$60K-$85K,0,1
+E0014,Shawn,Thompson,D002,Associate,New York,2022-12-18,,Active,54455,E0285,3.45,3-5 Years,<$60K,0,1
+E0015,Nicholas,Harris,D011,Analyst,Oklahoma,2021-05-28,2023-11-10,Terminated,66954,E0167,2.45,1-3 Years,$60K-$85K,1,0
+E0016,George,Moore,D006,Analyst,Oklahoma,2020-04-26,,Active,61865,E0687,6.1,5+ Years,$60K-$85K,0,1
+E0017,Sandra,Ryan,D012,Associate,Remote,2020-04-21,,Active,44339,E0624,6.11,5+ Years,<$60K,0,1
+E0018,Gary,Blair,D003,Director,Texas,2025-06-12,,Active,165005,E0747,0.97,<1 Year,$150K+,0,1
+E0019,Monica,Hall,D003,Associate,Oklahoma,2024-04-20,2024-12-27,Terminated,57147,E0389,0.69,<1 Year,<$60K,1,0
+E0020,Henry,Vasquez,D011,Senior Analyst,Texas,2018-07-20,,Active,97549,E0571,7.87,5+ Years,$85K-$115K,0,1
+E0021,Gerald,Woods,D011,Associate,Florida,2022-09-06,,Active,52626,E0864,3.73,3-5 Years,<$60K,0,1
+E0022,Laura,Mccarthy,D004,Associate,Oklahoma,2026-02-22,,Active,43051,E0825,0.27,<1 Year,<$60K,0,1
+E0023,Sean,Jackson,D007,Associate,Texas,2020-11-06,,Active,50773,E0068,5.57,5+ Years,<$60K,0,1
+E0024,Amanda,Chavez,D010,Associate,Remote,2024-06-25,,Active,52311,E0218,1.93,1-3 Years,<$60K,0,1
+E0025,Bradley,Bennett,D008,Analyst,Remote,2020-09-28,,Active,67964,E0906,5.67,5+ Years,$60K-$85K,0,1
+E0026,Matthew,Wade,D008,Director,Texas,2021-02-12,,Active,139363,E0272,5.3,5+ Years,$115K-$150K,0,1
+E0027,William,Olson,D004,Manager,Oklahoma,2021-09-21,,Active,131789,E0552,4.69,3-5 Years,$115K-$150K,0,1
+E0028,Debbie,Yates,D012,Analyst,California,2018-09-05,,Active,74155,E0439,7.74,5+ Years,$60K-$85K,0,1
+E0029,Jordan,Harrison,D007,Associate,Texas,2022-09-25,,Active,53861,E0225,3.68,3-5 Years,<$60K,0,1
+E0030,Kenneth,Ortiz,D009,Associate,Florida,2022-04-01,,Active,58171,E0094,4.17,3-5 Years,<$60K,0,1
+E0031,Emily,Navarro,D002,Analyst,Texas,2021-12-23,,Active,60008,E0643,4.44,3-5 Years,$60K-$85K,0,1
+E0032,Kurt,Bright,D011,Senior Analyst,Florida,2018-11-08,,Active,88833,E0611,7.56,5+ Years,$85K-$115K,0,1
+E0033,Julie,Patrick,D007,Associate,New York,2019-10-24,,Active,54504,E0611,6.6,5+ Years,<$60K,0,1
+E0034,Christie,Bender,D009,Associate,California,2019-03-07,,Active,50238,E0995,7.24,5+ Years,<$60K,0,1
+E0035,Dana,Austin,D001,Associate,California,2019-03-26,,Active,45753,E0699,7.18,5+ Years,<$60K,0,1
+E0036,James,Gibson,D005,Senior Analyst,Oklahoma,2022-07-08,,Active,100185,E0657,3.9,3-5 Years,$85K-$115K,0,1
+E0037,Jessica,Moore,D002,Associate,Texas,2018-11-14,,Active,51617,E0446,7.55,5+ Years,<$60K,0,1
+E0038,Lisa,Newton,D008,Senior Analyst,Remote,2019-07-18,,Active,75106,E0977,6.87,5+ Years,$60K-$85K,0,1
+E0039,Cassandra,Jones,D012,Senior Analyst,California,2019-07-21,2021-06-17,Terminated,83630,E0996,1.91,1-3 Years,$60K-$85K,1,0
+E0040,William,Hall,D003,Analyst,Florida,2025-09-15,2026-03-31,Terminated,71635,E0935,0.54,<1 Year,$60K-$85K,1,0
+E0041,Whitney,Jones,D011,Manager,Remote,2020-12-09,,Active,114558,E0862,5.48,5+ Years,$85K-$115K,0,1
+E0042,James,Carter,D009,Associate,Oklahoma,2018-09-23,2020-04-16,Terminated,48517,E0157,1.56,1-3 Years,<$60K,1,0
+E0043,Taylor,Wood,D003,Associate,California,2023-10-06,,Active,59674,E0977,2.65,1-3 Years,<$60K,0,1
+E0044,Michael,Copeland,D001,Senior Analyst,New York,2021-10-02,,Active,94626,E0332,4.66,3-5 Years,$85K-$115K,0,1
+E0045,Jessica,Ellison,D001,Manager,Oklahoma,2020-04-07,,Active,102331,E0952,6.15,5+ Years,$85K-$115K,0,1
+E0046,Kimberly,Larson,D005,Associate,Texas,2024-01-14,,Active,49846,E0060,2.38,1-3 Years,<$60K,0,1
+E0047,Christopher,Soto,D010,Senior Analyst,Remote,2019-05-05,,Active,77580,E0088,7.07,5+ Years,$60K-$85K,0,1
+E0048,Martin,Cook,D008,Senior Analyst,California,2019-12-22,,Active,101739,E0071,6.44,5+ Years,$85K-$115K,0,1
+E0049,Ronald,Sims,D003,Analyst,New York,2021-10-05,,Active,59207,E0676,4.65,3-5 Years,<$60K,0,1
+E0050,Christopher,Scott,D009,Associate,California,2024-05-17,2026-01-05,Terminated,47410,E0272,1.64,1-3 Years,<$60K,1,0
+E0051,Jeffery,Anderson,D010,Associate,Texas,2022-01-27,,Active,55865,E0988,4.34,3-5 Years,<$60K,0,1
+E0052,Darius,Smith,D009,Associate,Oklahoma,2023-12-02,,Active,48591,E0731,2.5,1-3 Years,<$60K,0,1
+E0053,Joanna,Carter,D007,Manager,California,2025-06-03,,Active,119472,E0449,0.99,<1 Year,$115K-$150K,0,1
+E0054,Jessica,Evans,D008,Analyst,Texas,2021-02-26,,Active,58965,E0254,5.26,5+ Years,<$60K,0,1
+E0055,Jeffery,Ramos,D002,Associate,California,2023-02-27,2026-04-16,Terminated,53078,E0022,3.13,3-5 Years,<$60K,1,0
+E0056,Michael,Herrera,D009,Associate,Texas,2021-06-02,,Active,49540,E0603,5.0,3-5 Years,<$60K,0,1
+E0057,Joshua,Little,D001,Manager,Remote,2025-04-27,,Active,99652,E0725,1.1,1-3 Years,$85K-$115K,0,1
+E0058,Stephen,Robinson,D001,Analyst,Florida,2019-11-09,,Active,62501,E0070,6.56,5+ Years,$60K-$85K,0,1
+E0059,Jasmin,Ibarra,D006,Senior Analyst,Texas,2025-05-24,,Active,77321,E0527,1.02,1-3 Years,$60K-$85K,0,1
+E0060,Rebecca,Pratt,D005,Manager,California,2024-09-09,,Active,126812,E0220,1.72,1-3 Years,$115K-$150K,0,1
+E0061,Kenneth,Marquez,D003,Senior Analyst,California,2018-08-24,,Active,98702,E0958,7.77,5+ Years,$85K-$115K,0,1
+E0062,Kyle,Nichols,D010,Associate,New York,2025-09-01,2025-09-23,Terminated,57488,E0249,0.06,<1 Year,<$60K,1,0
+E0063,Alan,Wallace,D007,Associate,Florida,2023-02-17,,Active,48239,E0097,3.29,3-5 Years,<$60K,0,1
+E0064,Joseph,Richardson,D011,Senior Analyst,New York,2025-06-02,,Active,89124,E0363,1.0,<1 Year,$85K-$115K,0,1
+E0065,Jeffery,Decker,D007,Associate,Remote,2024-12-16,,Active,57303,E0885,1.46,1-3 Years,<$60K,0,1
+E0066,Joseph,Hodge,D001,Analyst,Remote,2025-06-04,,Active,77064,E0670,0.99,<1 Year,$60K-$85K,0,1
+E0067,Kimberly,Castillo,D002,Associate,Remote,2020-04-20,,Active,43986,E0413,6.11,5+ Years,<$60K,0,1
+E0068,Jonathon,Thomas,D006,Manager,Texas,2019-10-10,,Active,102161,E0255,6.64,5+ Years,$85K-$115K,0,1
+E0069,Lauren,Santos,D004,Analyst,Texas,2020-10-04,,Active,72573,E0460,5.66,5+ Years,$60K-$85K,0,1
+E0070,Joshua,Mullins,D007,Analyst,New York,2018-07-28,,Active,61012,E0286,7.84,5+ Years,$60K-$85K,0,1
+E0071,Joel,Cole,D004,Director,California,2020-07-31,,Active,134940,E0454,5.83,5+ Years,$115K-$150K,0,1
+E0072,Angela,Madden,D002,Analyst,California,2021-01-12,,Active,56657,E0668,5.38,5+ Years,<$60K,0,1
+E0073,Catherine,Fuller,D001,Associate,Texas,2021-07-01,2024-05-05,Terminated,45056,E0949,2.84,1-3 Years,<$60K,1,0
+E0074,Melissa,Smith,D003,Analyst,New York,2020-10-07,,Active,68317,E0498,5.65,5+ Years,$60K-$85K,0,1
+E0075,Peter,Sosa,D004,Associate,Florida,2020-05-26,,Active,55141,E0925,6.02,5+ Years,<$60K,0,1
+E0076,Kristin,Cuevas,D003,Manager,New York,2020-04-22,,Active,119836,E0003,6.11,5+ Years,$115K-$150K,0,1
+E0077,Vincent,Cross,D005,Associate,New York,2023-05-31,,Active,56909,E0293,3.0,1-3 Years,<$60K,0,1
+E0078,Mark,Wilcox,D012,Director,California,2023-10-12,,Active,177874,E0803,2.64,1-3 Years,$150K+,0,1
+E0079,Garrett,Kelly,D011,Senior Analyst,Texas,2022-05-21,,Active,98540,E0499,4.03,3-5 Years,$85K-$115K,0,1
+E0080,Rachel,Lawrence,D004,Associate,Florida,2021-06-07,,Active,51722,E0223,4.98,3-5 Years,<$60K,0,1
+E0081,Suzanne,Fernandez,D010,Analyst,Florida,2022-06-29,,Active,79108,E0556,3.92,3-5 Years,$60K-$85K,0,1
+E0082,Whitney,Lambert,D012,Analyst,Florida,2023-04-01,,Active,65276,E0059,3.17,3-5 Years,$60K-$85K,0,1
+E0083,Tammy,Wells,D010,Associate,California,2024-11-06,,Active,57623,E0515,1.57,1-3 Years,<$60K,0,1
+E0084,Julie,Mckinney,D003,Associate,California,2021-12-19,,Active,43863,E0984,4.45,3-5 Years,<$60K,0,1
+E0085,Andrea,Johnson,D002,Associate,California,2024-07-09,,Active,48089,E0071,1.89,1-3 Years,<$60K,0,1
+E0086,Seth,Smith,D002,Senior Analyst,Texas,2023-06-05,2026-05-09,Terminated,97125,E0883,2.93,1-3 Years,$85K-$115K,1,0
+E0087,Sandra,Underwood,D007,Analyst,California,2025-01-09,,Active,58928,E0965,1.39,1-3 Years,<$60K,0,1
+E0088,Christina,Cohen,D004,Analyst,Florida,2021-12-17,,Active,73970,E0609,4.45,3-5 Years,$60K-$85K,0,1
+E0089,John,Macias,D010,Senior Analyst,Remote,2024-11-22,,Active,77686,E0430,1.52,1-3 Years,$60K-$85K,0,1
+E0090,Victoria,Alexander,D010,Manager,Oklahoma,2020-11-21,,Active,132042,E0536,5.52,5+ Years,$115K-$150K,0,1
+E0091,Philip,Stewart,D005,Associate,Remote,2025-12-27,2026-04-03,Terminated,48693,E0686,0.27,<1 Year,<$60K,1,0
+E0092,Virginia,Edwards,D006,Manager,New York,2021-09-25,,Active,110642,E0272,4.68,3-5 Years,$85K-$115K,0,1
+E0093,Eric,Torres,D003,Associate,Oklahoma,2022-09-06,,Active,51830,E0469,3.73,3-5 Years,<$60K,0,1
+E0094,Ashley,Sanchez,D002,Senior Analyst,California,2022-06-17,,Active,75305,E0470,3.96,3-5 Years,$60K-$85K,0,1
+E0095,Kyle,Miller,D010,Analyst,California,2018-07-08,,Active,58276,E0076,7.9,5+ Years,<$60K,0,1
+E0096,Shawn,Rodriguez,D004,Associate,Texas,2021-02-18,,Active,58576,E0272,5.28,5+ Years,<$60K,0,1
+E0097,Aaron,Lynch,D006,Manager,Texas,2025-01-14,,Active,99508,E0901,1.38,1-3 Years,$85K-$115K,0,1
+E0098,Brenda,Green,D006,Associate,New York,2025-07-08,,Active,51338,E0162,0.9,<1 Year,<$60K,0,1
+E0099,John,Mcdonald,D009,Senior Analyst,California,2020-04-23,,Active,98053,E0310,6.11,5+ Years,$85K-$115K,0,1
+E0100,Michael,Hill,D011,Manager,Remote,2025-07-27,,Active,129664,E0009,0.85,<1 Year,$115K-$150K,0,1
+E0101,Stephanie,Valencia,D009,Analyst,Remote,2019-04-02,2025-11-21,Terminated,64810,E0955,6.64,5+ Years,$60K-$85K,1,0
+E0102,John,Spencer,D002,Associate,Florida,2022-03-13,,Active,46400,E0271,4.22,3-5 Years,<$60K,0,1
+E0103,Steven,Barber,D002,Analyst,Texas,2021-11-20,2024-08-05,Terminated,79327,E0567,2.71,1-3 Years,$60K-$85K,1,0
+E0104,Ray,Jackson,D005,Associate,Texas,2020-03-19,,Active,51232,E0620,6.2,5+ Years,<$60K,0,1
+E0105,Thomas,Henderson,D012,Associate,Remote,2020-09-21,,Active,53235,E0209,5.69,5+ Years,<$60K,0,1
+E0106,Joshua,Vargas,D011,Analyst,New York,2020-03-19,,Active,63650,E0518,6.2,5+ Years,$60K-$85K,0,1
+E0107,Brenda,Sanders,D005,Senior Analyst,Florida,2026-01-15,,Active,104666,E0930,0.38,<1 Year,$85K-$115K,0,1
+E0108,Randall,Hogan,D002,Senior Analyst,Oklahoma,2022-10-21,,Active,95784,E0434,3.61,3-5 Years,$85K-$115K,0,1
+E0109,Madison,Liu,D001,Associate,Texas,2021-02-25,,Active,42116,E0342,5.26,5+ Years,<$60K,0,1
+E0110,Corey,Murray,D011,Analyst,Remote,2018-11-06,,Active,63583,E0166,7.57,5+ Years,$60K-$85K,0,1
+E0111,Brian,Perez,D008,Senior Analyst,New York,2019-04-17,,Active,93077,E0723,7.12,5+ Years,$85K-$115K,0,1
+E0112,Caitlin,Smith,D009,Associate,Florida,2019-11-03,,Active,42316,E0115,6.58,5+ Years,<$60K,0,1
+E0113,Ashley,Wheeler,D012,Associate,Florida,2023-08-22,,Active,46884,E0559,2.78,1-3 Years,<$60K,0,1
+E0114,Bobby,Henderson,D006,Director,Texas,2023-07-27,,Active,168175,E0566,2.85,1-3 Years,$150K+,0,1
+E0115,Cassie,Stewart,D007,Manager,Oklahoma,2020-02-07,,Active,103352,E0043,6.31,5+ Years,$85K-$115K,0,1
+E0116,Kimberly,Hill,D006,Senior Analyst,Florida,2022-03-31,,Active,104457,E0956,4.17,3-5 Years,$85K-$115K,0,1
+E0117,Kirk,Lowe,D006,Analyst,Texas,2022-01-27,,Active,61883,E0699,4.34,3-5 Years,$60K-$85K,0,1
+E0118,Brianna,Black,D011,Associate,California,2019-07-30,,Active,45368,E0363,6.84,5+ Years,<$60K,0,1
+E0119,Chad,Marks,D007,Associate,Texas,2026-02-16,2026-05-17,Terminated,47064,E0948,0.25,<1 Year,<$60K,1,0
+E0120,Adam,Evans,D003,Analyst,New York,2018-09-17,,Active,60801,E0903,7.7,5+ Years,$60K-$85K,0,1
+E0121,Tyler,Fuller,D001,Manager,Oklahoma,2020-04-13,,Active,106754,E0755,6.13,5+ Years,$85K-$115K,0,1
+E0122,Andrea,Rios,D007,Manager,Texas,2020-06-09,,Active,111263,E0274,5.98,5+ Years,$85K-$115K,0,1
+E0123,Joshua,Mccall,D012,Associate,Florida,2022-07-09,,Active,45542,E0392,3.9,3-5 Years,<$60K,0,1
+E0124,William,Fox,D008,Analyst,New York,2021-09-27,,Active,62288,E0205,4.68,3-5 Years,$60K-$85K,0,1
+E0125,Pamela,Williams,D006,Director,Texas,2025-09-11,,Active,150000,E0841,0.72,<1 Year,$115K-$150K,0,1
+E0126,Scott,Kaufman,D004,Associate,Texas,2021-09-18,,Active,42775,E0676,4.7,3-5 Years,<$60K,0,1
+E0127,Connor,Martinez,D007,Manager,Florida,2022-11-27,,Active,116512,E0286,3.51,3-5 Years,$115K-$150K,0,1
+E0128,Gregory,Baker,D005,Associate,California,2022-10-12,,Active,53506,E0657,3.64,3-5 Years,<$60K,0,1
+E0129,John,Thompson,D007,Manager,Florida,2025-12-14,,Active,130141,E0340,0.46,<1 Year,$115K-$150K,0,1
+E0130,Michael,Bartlett,D002,Analyst,California,2019-11-22,2020-12-09,Terminated,63559,E0183,1.05,1-3 Years,$60K-$85K,1,0
+E0131,Sierra,Duran,D005,Analyst,California,2018-11-08,,Active,56253,E0112,7.56,5+ Years,<$60K,0,1
+E0132,Lee,Clark,D007,Associate,Oklahoma,2024-01-27,,Active,53327,E0747,2.34,1-3 Years,<$60K,0,1
+E0133,Christopher,Miller,D007,Manager,Florida,2020-08-07,,Active,134728,E0524,5.82,5+ Years,$115K-$150K,0,1
+E0134,Kathy,Wade,D007,Senior Analyst,Texas,2020-06-05,,Active,104474,E0591,5.99,5+ Years,$85K-$115K,0,1
+E0135,David,Lee,D005,Analyst,New York,2018-12-14,,Active,56454,E0726,7.46,5+ Years,<$60K,0,1
+E0136,Ashley,Kidd,D001,Senior Analyst,California,2025-04-30,,Active,92036,E0948,1.09,1-3 Years,$85K-$115K,0,1
+E0137,Caleb,Espinoza,D011,Manager,New York,2022-01-28,,Active,107912,E0373,4.34,3-5 Years,$85K-$115K,0,1
+E0138,Jeremy,Sanchez,D002,Analyst,Oklahoma,2023-06-05,,Active,76765,E0943,2.99,1-3 Years,$60K-$85K,0,1
+E0139,Brian,Martin,D010,Senior Analyst,Florida,2024-02-02,,Active,85286,E0680,2.33,1-3 Years,$85K-$115K,0,1
+E0140,Paul,Matthews,D012,Senior Analyst,California,2018-07-29,,Active,104492,E0308,7.84,5+ Years,$85K-$115K,0,1
+E0141,Cynthia,Boyd,D005,Manager,New York,2021-01-14,,Active,121764,E0335,5.38,5+ Years,$115K-$150K,0,1
+E0142,Beth,Gonzales,D012,Analyst,Texas,2026-01-31,2026-03-15,Terminated,64688,E0568,0.12,<1 Year,$60K-$85K,1,0
+E0143,Molly,Ballard,D004,Analyst,New York,2019-05-08,2021-08-06,Terminated,68777,E0681,2.25,1-3 Years,$60K-$85K,1,0
+E0144,Heather,Gordon,D011,Analyst,Texas,2025-10-06,,Active,79514,E0925,0.65,<1 Year,$60K-$85K,0,1
+E0145,Julie,Williams,D010,Associate,California,2019-09-30,,Active,51861,E0416,6.67,5+ Years,<$60K,0,1
+E0146,Makayla,Pierce,D001,Associate,Texas,2023-12-06,2024-10-13,Terminated,51957,E0294,0.85,<1 Year,<$60K,1,0
+E0147,Joshua,Hardin,D007,Senior Analyst,California,2024-02-18,,Active,100747,E0594,2.28,1-3 Years,$85K-$115K,0,1
+E0148,Carolyn,Davis,D011,Associate,New York,2022-08-12,,Active,52559,E0477,3.8,3-5 Years,<$60K,0,1
+E0149,Ashley,Scott,D008,Senior Analyst,California,2023-11-24,,Active,97138,E0219,2.52,1-3 Years,$85K-$115K,0,1
+E0150,Antonio,Johnson,D008,Analyst,Remote,2023-11-11,2024-10-27,Terminated,79115,E0174,0.96,<1 Year,$60K-$85K,1,0
+E0151,John,Rogers,D002,Associate,Remote,2018-10-05,,Active,51299,E0528,7.66,5+ Years,<$60K,0,1
+E0152,Christopher,Morris,D011,Analyst,Florida,2021-11-05,,Active,75291,E0344,4.57,3-5 Years,$60K-$85K,0,1
+E0153,Catherine,Martinez,D004,Senior Analyst,Texas,2019-05-19,,Active,97046,E0318,7.04,5+ Years,$85K-$115K,0,1
+E0154,Matthew,White,D004,Analyst,Florida,2024-05-12,,Active,59828,E0026,2.05,1-3 Years,<$60K,0,1
+E0155,Grant,Scott,D004,Senior Analyst,Florida,2023-12-07,,Active,90569,E0626,2.48,1-3 Years,$85K-$115K,0,1
+E0156,Joe,Ford,D008,Analyst,Remote,2024-08-11,2024-10-08,Terminated,68580,E0908,0.16,<1 Year,$60K-$85K,1,0
+E0157,Jaime,Ramirez,D010,Associate,Remote,2023-09-06,,Active,48371,E0736,2.74,1-3 Years,<$60K,0,1
+E0158,Alison,Thompson,D007,Senior Analyst,Texas,2025-05-21,,Active,91199,E0410,1.03,1-3 Years,$85K-$115K,0,1
+E0159,Nathan,Taylor,D003,Analyst,Florida,2018-08-02,,Active,76497,E0705,7.83,5+ Years,$60K-$85K,0,1
+E0160,Teresa,Watson,D002,Associate,Texas,2021-05-30,,Active,55931,E0225,5.0,3-5 Years,<$60K,0,1
+E0161,Raymond,Morgan,D012,Analyst,Florida,2021-12-03,,Active,71972,E0476,4.49,3-5 Years,$60K-$85K,0,1
+E0162,Kimberly,Ryan,D009,Senior Analyst,Florida,2024-04-18,,Active,83165,E0940,2.12,1-3 Years,$60K-$85K,0,1
+E0163,Matthew,Oliver,D008,Director,New York,2020-08-06,,Active,138738,E0821,5.82,5+ Years,$115K-$150K,0,1
+E0164,Michael,Turner,D011,Analyst,California,2020-02-11,,Active,72404,E0573,6.3,5+ Years,$60K-$85K,0,1
+E0165,Grant,Park,D006,Analyst,New York,2024-11-16,,Active,79748,E0913,1.54,1-3 Years,$60K-$85K,0,1
+E0166,Carol,Huang,D010,Analyst,California,2020-07-06,,Active,78569,E0914,5.9,5+ Years,$60K-$85K,0,1
+E0167,Alexandra,Davis,D007,Associate,Texas,2024-05-01,2024-09-03,Terminated,59952,E0457,0.34,<1 Year,<$60K,1,0
+E0168,Stephen,Wells,D012,Associate,Oklahoma,2024-09-13,2024-10-12,Terminated,57554,E0461,0.08,<1 Year,<$60K,1,0
+E0169,Katherine,Tucker,D004,Manager,California,2022-12-24,,Active,113173,E0785,3.44,3-5 Years,$85K-$115K,0,1
+E0170,Jason,Patel,D008,Analyst,Oklahoma,2020-01-23,2025-08-04,Terminated,75537,E0245,5.53,5+ Years,$60K-$85K,1,0
+E0171,Kathleen,Thompson,D008,Analyst,Oklahoma,2025-01-28,,Active,57538,E0731,1.34,1-3 Years,<$60K,0,1
+E0172,Mark,Adams,D004,Associate,Oklahoma,2024-01-21,,Active,50903,E0344,2.36,1-3 Years,<$60K,0,1
+E0173,Brett,Sherman,D009,Analyst,Texas,2023-02-12,,Active,57640,E0142,3.3,3-5 Years,<$60K,0,1
+E0174,Dale,Ortiz,D004,Analyst,Texas,2019-02-08,2022-08-02,Terminated,67551,E0711,3.48,3-5 Years,$60K-$85K,1,0
+E0175,Lori,Soto,D012,Analyst,New York,2026-04-01,,Active,62010,E0066,0.17,<1 Year,$60K-$85K,0,1
+E0176,Ronald,Guzman,D007,Analyst,New York,2025-09-05,,Active,65842,E0556,0.74,<1 Year,$60K-$85K,0,1
+E0177,Jesus,Brown,D007,Senior Analyst,New York,2025-03-08,,Active,77040,E0212,1.23,1-3 Years,$60K-$85K,0,1
+E0178,Christopher,Holmes,D007,Associate,California,2025-02-03,,Active,42640,E0878,1.32,1-3 Years,<$60K,0,1
+E0179,Sarah,Santiago,D007,Associate,Oklahoma,2025-03-25,,Active,57629,E0007,1.19,1-3 Years,<$60K,0,1
+E0180,Jessica,Weeks,D005,Manager,New York,2020-07-19,,Active,120558,E0874,5.87,5+ Years,$115K-$150K,0,1
+E0181,Jasmine,Turner,D009,Analyst,California,2025-09-27,,Active,79494,E0753,0.68,<1 Year,$60K-$85K,0,1
+E0182,Max,Schneider,D010,Analyst,Texas,2019-03-28,,Active,62226,E0500,7.18,5+ Years,$60K-$85K,0,1
+E0183,Sara,Mccarty,D005,Manager,Florida,2025-06-11,,Active,123562,E0498,0.97,<1 Year,$115K-$150K,0,1
+E0184,Brian,Mccoy,D007,Director,Remote,2025-06-15,,Active,152028,E0685,0.96,<1 Year,$150K+,0,1
+E0185,Adam,Young,D007,Associate,New York,2025-05-29,2025-09-02,Terminated,47408,E0861,0.26,<1 Year,<$60K,1,0
+E0186,Lawrence,Garcia,D003,Associate,New York,2021-11-11,2022-04-08,Terminated,59502,E0028,0.41,<1 Year,<$60K,1,0
+E0187,Ashley,Santiago,D010,Associate,Remote,2020-03-31,,Active,42888,E0086,6.17,5+ Years,<$60K,0,1
+E0188,William,Gonzales,D007,Associate,New York,2018-08-10,,Active,46446,E0888,7.81,5+ Years,<$60K,0,1
+E0189,Kenneth,Warren,D003,Senior Analyst,New York,2021-03-31,2022-02-16,Terminated,76647,E0267,0.88,<1 Year,$60K-$85K,1,0
+E0190,Mark,Davis,D006,Senior Analyst,Oklahoma,2020-05-31,,Active,81935,E0466,6.0,5+ Years,$60K-$85K,0,1
+E0191,Tyler,Estrada,D006,Associate,New York,2021-10-25,,Active,54423,E0285,4.6,3-5 Years,<$60K,0,1
+E0192,Erik,Terry,D005,Analyst,Florida,2020-12-06,,Active,57683,E0482,5.48,5+ Years,<$60K,0,1
+E0193,Douglas,Mejia,D012,Senior Analyst,Oklahoma,2020-03-03,,Active,92675,E0054,6.25,5+ Years,$85K-$115K,0,1
+E0194,Benjamin,Morris,D004,Associate,Remote,2025-05-21,,Active,44248,E0800,1.03,1-3 Years,<$60K,0,1
+E0195,Steven,Warner,D001,Senior Analyst,Texas,2023-10-07,,Active,99714,E0032,2.65,1-3 Years,$85K-$115K,0,1
+E0196,Joel,Brown,D004,Director,Texas,2021-08-08,,Active,131335,E0637,4.81,3-5 Years,$115K-$150K,0,1
+E0197,Lindsay,Irwin,D004,Analyst,Remote,2024-09-07,,Active,59136,E0485,1.73,1-3 Years,<$60K,0,1
+E0198,Nicole,Herrera,D002,Associate,Remote,2023-10-22,,Active,49142,E0477,2.61,1-3 Years,<$60K,0,1
+E0199,David,Rodriguez,D005,Manager,California,2018-06-14,,Active,119175,E0172,7.96,5+ Years,$115K-$150K,0,1
+E0200,Mark,Matthews,D010,Senior Analyst,Florida,2025-06-25,,Active,99508,E0736,0.93,<1 Year,$85K-$115K,0,1
+E0201,Sara,Mcmahon,D003,Associate,California,2018-09-26,,Active,52192,E0111,7.68,5+ Years,<$60K,0,1
+E0202,Lucas,Walsh,D001,Analyst,Remote,2025-10-07,,Active,65222,E0590,0.65,<1 Year,$60K-$85K,0,1
+E0203,Jacqueline,Barker,D007,Associate,Remote,2019-04-28,,Active,54997,E0965,7.09,5+ Years,<$60K,0,1
+E0204,John,Fields,D004,Analyst,Remote,2022-05-05,2022-12-09,Terminated,57490,E0607,0.6,<1 Year,<$60K,1,0
+E0205,John,Coleman,D011,Manager,Remote,2018-09-20,2018-09-28,Terminated,110915,E0105,0.02,<1 Year,$85K-$115K,1,0
+E0206,Amanda,Cain,D005,Associate,California,2023-10-10,,Active,45966,E0816,2.64,1-3 Years,<$60K,0,1
+E0207,Steven,Tapia,D001,Director,New York,2023-11-05,,Active,152754,E0546,2.57,1-3 Years,$150K+,0,1
+E0208,Ashley,Compton,D011,Analyst,California,2019-05-28,,Active,67142,E0071,7.01,5+ Years,$60K-$85K,0,1
+E0209,Ricky,Silva,D011,Associate,New York,2024-03-01,,Active,53181,E0013,2.25,1-3 Years,<$60K,0,1
+E0210,Kristina,Sexton,D008,Senior Analyst,Oklahoma,2022-08-17,,Active,78458,E0444,3.79,3-5 Years,$60K-$85K,0,1
+E0211,Eric,Moreno,D011,Senior Analyst,New York,2024-12-06,,Active,104215,E0849,1.48,1-3 Years,$85K-$115K,0,1
+E0212,Jason,Joseph,D012,Associate,Texas,2023-08-18,,Active,47013,E0446,2.79,1-3 Years,<$60K,0,1
+E0213,Lisa,Harmon,D012,Associate,Remote,2021-07-31,,Active,59096,E0989,4.84,3-5 Years,<$60K,0,1
+E0214,Debra,Stone,D005,Analyst,California,2025-04-29,,Active,75182,E0828,1.09,1-3 Years,$60K-$85K,0,1
+E0215,Gregory,Mckinney,D008,Analyst,Remote,2024-01-22,2024-07-01,Terminated,70232,E0447,0.44,<1 Year,$60K-$85K,1,0
+E0216,John,Cook,D010,Associate,Texas,2024-06-16,,Active,50794,E0331,1.96,1-3 Years,<$60K,0,1
+E0217,Wesley,Allen,D002,Analyst,New York,2024-09-24,2025-08-21,Terminated,64139,E0903,0.91,<1 Year,$60K-$85K,1,0
+E0218,Matthew,Douglas,D004,Associate,California,2022-03-01,,Active,57227,E0584,4.25,3-5 Years,<$60K,0,1
+E0219,Joann,Greene,D011,Associate,Florida,2020-02-19,,Active,54418,E0345,6.28,5+ Years,<$60K,0,1
+E0220,Charles,Jackson,D008,Senior Analyst,Texas,2022-05-02,2023-05-30,Terminated,102884,E0333,1.08,1-3 Years,$85K-$115K,1,0
+E0221,Madison,Lewis,D008,Associate,Oklahoma,2018-11-14,,Active,48950,E0364,7.55,5+ Years,<$60K,0,1
+E0222,Jay,Butler,D006,Analyst,California,2019-12-14,,Active,64163,E0902,6.46,5+ Years,$60K-$85K,0,1
+E0223,Michael,Perkins,D012,Senior Analyst,California,2019-03-15,,Active,103839,E0283,7.21,5+ Years,$85K-$115K,0,1
+E0224,Brian,Sellers,D001,Director,Texas,2019-06-22,,Active,163857,E0971,6.94,5+ Years,$150K+,0,1
+E0225,Brandy,Joseph,D002,Analyst,New York,2024-03-16,2026-02-27,Terminated,62908,E0738,1.95,1-3 Years,$60K-$85K,1,0
+E0226,Katherine,Nguyen,D008,Senior Analyst,Texas,2021-10-21,,Active,93192,E0777,4.61,3-5 Years,$85K-$115K,0,1
+E0227,Dennis,Mccormick,D012,Analyst,Remote,2022-04-04,,Active,70600,E0662,4.16,3-5 Years,$60K-$85K,0,1
+E0228,Jennifer,Bailey,D008,Associate,Florida,2020-12-05,,Active,56685,E0812,5.49,5+ Years,<$60K,0,1
+E0229,Elizabeth,Long,D002,Associate,New York,2023-08-30,,Active,51641,E0227,2.75,1-3 Years,<$60K,0,1
+E0230,Kristin,Ford,D012,Associate,Remote,2025-05-18,2026-04-03,Terminated,49972,E0314,0.88,<1 Year,<$60K,1,0
+E0231,Justin,Watson,D010,Associate,California,2025-03-12,,Active,54092,E0485,1.22,1-3 Years,<$60K,0,1
+E0232,Rodney,Porter,D009,Senior Analyst,Remote,2023-04-03,,Active,86264,E0436,3.16,3-5 Years,$85K-$115K,0,1
+E0233,Laura,Williams,D009,Director,Remote,2022-04-27,,Active,151678,E0361,4.1,3-5 Years,$150K+,0,1
+E0234,Christopher,Wilson,D008,Associate,Oklahoma,2025-08-22,,Active,50877,E0314,0.77,<1 Year,<$60K,0,1
+E0235,Jacqueline,Martin,D004,Associate,Texas,2021-07-14,,Active,45953,E0739,4.88,3-5 Years,<$60K,0,1
+E0236,Keith,Daniels,D006,Associate,California,2019-04-24,,Active,45917,E0761,7.1,5+ Years,<$60K,0,1
+E0237,Matthew,West,D012,Associate,Texas,2025-10-16,,Active,48066,E0197,0.62,<1 Year,<$60K,0,1
+E0238,Natalie,Phillips,D012,Analyst,Remote,2023-02-03,,Active,70866,E0284,3.32,3-5 Years,$60K-$85K,0,1
+E0239,Catherine,Solis,D010,Associate,Oklahoma,2025-11-11,,Active,59191,E0612,0.55,<1 Year,<$60K,0,1
+E0240,Jennifer,Baker,D002,Director,Texas,2022-09-09,,Active,142721,E0304,3.73,3-5 Years,$115K-$150K,0,1
+E0241,Kimberly,Simmons,D006,Analyst,Florida,2023-10-13,,Active,60879,E0310,2.63,1-3 Years,$60K-$85K,0,1
+E0242,Kylie,Hunter,D012,Analyst,Oklahoma,2024-05-23,,Active,72502,E0130,2.02,1-3 Years,$60K-$85K,0,1
+E0243,Thomas,Stephenson,D001,Analyst,Oklahoma,2022-07-16,,Active,56786,E0567,3.88,3-5 Years,<$60K,0,1
+E0244,Laura,Watts,D012,Associate,New York,2019-07-22,,Active,46137,E0654,6.86,5+ Years,<$60K,0,1
+E0245,Jessica,Johnston,D002,Director,Oklahoma,2025-01-16,,Active,130803,E0588,1.37,1-3 Years,$115K-$150K,0,1
+E0246,David,Cruz,D008,Analyst,Oklahoma,2022-10-07,,Active,70686,E0452,3.65,3-5 Years,$60K-$85K,0,1
+E0247,Kayla,Ford,D003,Associate,New York,2025-04-10,,Active,43683,E0259,1.14,1-3 Years,<$60K,0,1
+E0248,Nancy,Aguilar,D002,Analyst,New York,2019-10-08,,Active,57141,E0411,6.65,5+ Years,<$60K,0,1
+E0249,Steven,King,D002,Analyst,Remote,2019-12-09,2025-01-24,Terminated,73907,E0645,5.13,5+ Years,$60K-$85K,1,0
+E0250,Monica,Weeks,D001,Director,California,2025-05-17,,Active,139943,E0153,1.04,1-3 Years,$115K-$150K,0,1
+E0251,David,Jackson,D005,Senior Analyst,Florida,2023-01-17,,Active,77791,E0255,3.37,3-5 Years,$60K-$85K,0,1
+E0252,Richard,Townsend,D009,Associate,California,2026-02-10,,Active,55637,E0621,0.3,<1 Year,<$60K,0,1
+E0253,Christine,Carter,D010,Senior Analyst,California,2022-01-10,,Active,82395,E0795,4.39,3-5 Years,$60K-$85K,0,1
+E0254,Gloria,Holt,D007,Manager,New York,2021-12-31,,Active,124524,E0931,4.42,3-5 Years,$115K-$150K,0,1
+E0255,Kimberly,Ramirez,D005,Manager,Oklahoma,2021-06-20,,Active,133569,E0440,4.95,3-5 Years,$115K-$150K,0,1
+E0256,Mary,Brady,D010,Analyst,California,2024-06-16,,Active,75349,E0062,1.96,1-3 Years,$60K-$85K,0,1
+E0257,Steven,Castro,D012,Manager,Texas,2021-03-25,,Active,101503,E0971,5.19,5+ Years,$85K-$115K,0,1
+E0258,David,Blanchard,D011,Associate,Remote,2022-08-13,2025-02-13,Terminated,48914,E0271,2.51,1-3 Years,<$60K,1,0
+E0259,Kathy,Martinez,D002,Analyst,Texas,2019-07-02,,Active,60146,E0246,6.92,5+ Years,$60K-$85K,0,1
+E0260,Mark,Williamson,D009,Director,Florida,2019-02-11,,Active,134919,E0161,7.3,5+ Years,$115K-$150K,0,1
+E0261,Tyler,Johnston,D007,Analyst,California,2022-06-11,,Active,69762,E0706,3.97,3-5 Years,$60K-$85K,0,1
+E0262,Mike,Gomez,D008,Director,Texas,2026-02-14,,Active,149087,E0034,0.29,<1 Year,$115K-$150K,0,1
+E0263,Justin,Delacruz,D005,Senior Analyst,Remote,2021-12-12,,Active,98165,E0290,4.47,3-5 Years,$85K-$115K,0,1
+E0264,Isaiah,Barnes,D008,Analyst,Texas,2022-11-11,,Active,57332,E0704,3.55,3-5 Years,<$60K,0,1
+E0265,Pamela,Mcdowell,D005,Associate,Florida,2025-08-23,,Active,48482,E0436,0.77,<1 Year,<$60K,0,1
+E0266,Annette,Alvarez,D009,Senior Analyst,Texas,2019-07-23,,Active,82366,E0664,6.86,5+ Years,$60K-$85K,0,1
+E0267,Beverly,Miller,D005,Director,Florida,2021-05-21,,Active,139321,E0074,5.03,5+ Years,$115K-$150K,0,1
+E0268,Shannon,Elliott,D003,Senior Analyst,California,2022-09-12,,Active,100972,E0315,3.72,3-5 Years,$85K-$115K,0,1
+E0269,Michael,Yates,D012,Senior Analyst,Oklahoma,2025-10-17,,Active,102008,E0583,0.62,<1 Year,$85K-$115K,0,1
+E0270,Eric,Day,D008,Analyst,Remote,2021-06-15,,Active,59074,E0480,4.96,3-5 Years,<$60K,0,1
+E0271,Michelle,Shelton,D005,Director,Oklahoma,2023-01-05,,Active,175857,E0413,3.4,3-5 Years,$150K+,0,1
+E0272,Jason,Joseph,D009,Associate,New York,2021-10-06,,Active,59694,E0506,4.65,3-5 Years,<$60K,0,1
+E0273,Frank,Garrett,D002,Analyst,New York,2019-11-23,,Active,74596,E0041,6.52,5+ Years,$60K-$85K,0,1
+E0274,Tyler,Dickson,D012,Associate,Oklahoma,2025-10-05,,Active,52561,E0619,0.65,<1 Year,<$60K,0,1
+E0275,Joanne,Anderson,D001,Analyst,Remote,2020-07-31,,Active,57992,E0235,5.83,5+ Years,<$60K,0,1
+E0276,Jennifer,Jones,D010,Analyst,Florida,2020-02-02,,Active,74238,E0974,6.33,5+ Years,$60K-$85K,0,1
+E0277,Kenneth,Wright,D011,Analyst,Florida,2019-06-01,,Active,63831,E0591,7.0,5+ Years,$60K-$85K,0,1
+E0278,Anne,Lewis,D003,Manager,Remote,2020-01-15,,Active,125834,E0532,6.38,5+ Years,$115K-$150K,0,1
+E0279,Angel,Martinez,D008,Associate,California,2019-02-04,2019-09-04,Terminated,51114,E0186,0.58,<1 Year,<$60K,1,0
+E0280,Diane,Bates,D007,Senior Analyst,New York,2024-02-12,,Active,95800,E0834,2.3,1-3 Years,$85K-$115K,0,1
+E0281,Sean,Martin,D002,Senior Analyst,New York,2025-06-17,,Active,90401,E0357,0.96,<1 Year,$85K-$115K,0,1
+E0282,Joseph,English,D006,Associate,Florida,2018-10-24,2019-06-07,Terminated,52520,E0687,0.62,<1 Year,<$60K,1,0
+E0283,Shannon,Garcia,D003,Analyst,Remote,2021-01-29,,Active,65807,E0422,5.34,5+ Years,$60K-$85K,0,1
+E0284,Shelly,Robles,D008,Analyst,New York,2018-10-25,,Active,64444,E0679,7.6,5+ Years,$60K-$85K,0,1
+E0285,Helen,White,D009,Manager,Florida,2019-10-17,,Active,97404,E0466,6.62,5+ Years,$85K-$115K,0,1
+E0286,David,Black,D006,Analyst,Florida,2019-03-26,,Active,63270,E0332,7.18,5+ Years,$60K-$85K,0,1
+E0287,Curtis,Burton,D007,Analyst,Florida,2020-03-16,,Active,71862,E0845,6.21,5+ Years,$60K-$85K,0,1
+E0288,Lori,Foster,D011,Manager,New York,2018-12-19,,Active,130559,E0474,7.45,5+ Years,$115K-$150K,0,1
+E0289,Melissa,Charles,D001,Associate,Oklahoma,2023-11-07,,Active,48146,E0531,2.57,1-3 Years,<$60K,0,1
+E0290,Jessica,Lynch,D010,Analyst,Remote,2021-10-23,,Active,79787,E0511,4.61,3-5 Years,$60K-$85K,0,1
+E0291,Gregory,Torres,D008,Analyst,Texas,2023-11-20,,Active,79903,E0053,2.53,1-3 Years,$60K-$85K,0,1
+E0292,Jennifer,Thomas,D005,Analyst,Oklahoma,2024-04-16,,Active,72996,E0135,2.12,1-3 Years,$60K-$85K,0,1
+E0293,Nancy,Collier,D008,Analyst,Florida,2025-06-23,,Active,77880,E0497,0.94,<1 Year,$60K-$85K,0,1
+E0294,Ryan,Moreno,D001,Associate,Texas,2024-07-09,2025-05-24,Terminated,49841,E0727,0.87,<1 Year,<$60K,1,0
+E0295,April,Moore,D005,Associate,New York,2025-07-16,,Active,42448,E0566,0.88,<1 Year,<$60K,0,1
+E0296,Dawn,Robinson,D002,Associate,Florida,2018-08-05,,Active,49362,E0862,7.82,5+ Years,<$60K,0,1
+E0297,Nicholas,Flores,D008,Associate,Texas,2021-12-24,,Active,45849,E0664,4.44,3-5 Years,<$60K,0,1
+E0298,Gloria,Gomez,D008,Manager,Remote,2023-03-12,,Active,114127,E0522,3.22,3-5 Years,$85K-$115K,0,1
+E0299,Shannon,Richardson,D005,Senior Analyst,New York,2020-08-15,,Active,88614,E0855,5.79,5+ Years,$85K-$115K,0,1
+E0300,Christopher,Alvarez,D008,Associate,California,2020-12-17,2023-04-19,Terminated,49986,E0468,2.34,1-3 Years,<$60K,1,0
+E0301,David,Lynch,D003,Associate,California,2019-08-10,,Active,54569,E0196,6.81,5+ Years,<$60K,0,1
+E0302,Kristopher,Klein,D009,Associate,Florida,2024-02-15,2025-07-31,Terminated,46473,E0885,1.46,1-3 Years,<$60K,1,0
+E0303,Julie,Reyes,D005,Associate,California,2023-10-22,,Active,55596,E0349,2.61,1-3 Years,<$60K,0,1
+E0304,Jason,Taylor,D005,Associate,Remote,2021-03-02,,Active,42084,E0290,5.25,5+ Years,<$60K,0,1
+E0305,James,Wyatt,D005,Analyst,Remote,2019-04-07,,Active,74232,E0594,7.15,5+ Years,$60K-$85K,0,1
+E0306,Brett,House,D008,Associate,California,2023-10-24,,Active,46869,E0458,2.6,1-3 Years,<$60K,0,1
+E0307,Zachary,Bailey,D008,Analyst,California,2021-03-22,2021-06-26,Terminated,66309,E0341,0.26,<1 Year,$60K-$85K,1,0
+E0308,Mallory,Moore,D009,Manager,Oklahoma,2024-12-16,,Active,119720,E0467,1.46,1-3 Years,$115K-$150K,0,1
+E0309,Ashley,Martin,D004,Associate,New York,2022-04-24,,Active,49825,E0586,4.1,3-5 Years,<$60K,0,1
+E0310,Barbara,Patterson,D004,Senior Analyst,New York,2021-09-07,,Active,103049,E0795,4.73,3-5 Years,$85K-$115K,0,1
+E0311,Teresa,Brock,D001,Associate,New York,2019-02-16,,Active,52426,E0763,7.29,5+ Years,<$60K,0,1
+E0312,Manuel,Jones,D012,Analyst,Remote,2019-07-22,,Active,67492,E0396,6.86,5+ Years,$60K-$85K,0,1
+E0313,Jacob,Meyers,D011,Analyst,Florida,2020-08-06,,Active,59984,E0508,5.82,5+ Years,<$60K,0,1
+E0314,David,Hernandez,D003,Analyst,California,2020-09-09,,Active,71459,E0989,5.72,5+ Years,$60K-$85K,0,1
+E0315,Sherri,Vazquez,D006,Associate,New York,2023-08-21,,Active,45288,E0896,2.78,1-3 Years,<$60K,0,1
+E0316,Karen,Anderson,D002,Senior Analyst,New York,2019-05-06,,Active,92234,E0933,7.07,5+ Years,$85K-$115K,0,1
+E0317,Timothy,Turner,D001,Analyst,New York,2022-01-25,,Active,78673,E0148,4.35,3-5 Years,$60K-$85K,0,1
+E0318,Kyle,Mosley,D011,Associate,New York,2023-06-07,,Active,47058,E0077,2.98,1-3 Years,<$60K,0,1
+E0319,Steven,Evans,D005,Analyst,Remote,2026-04-13,,Active,66093,E0639,0.13,<1 Year,$60K-$85K,0,1
+E0320,Kathleen,Williams,D007,Associate,Oklahoma,2021-07-01,,Active,44631,E0873,4.92,3-5 Years,<$60K,0,1
+E0321,Brian,Hawkins,D011,Associate,Oklahoma,2019-09-15,,Active,59485,E0390,6.71,5+ Years,<$60K,0,1
+E0322,Kaitlyn,Kidd,D011,Associate,California,2018-11-30,,Active,57989,E0894,7.5,5+ Years,<$60K,0,1
+E0323,Lisa,Clark,D001,Associate,Remote,2019-05-15,,Active,44242,E0241,7.05,5+ Years,<$60K,0,1
+E0324,Sharon,Johnson,D011,Analyst,Remote,2026-04-29,,Active,64416,E0233,0.09,<1 Year,$60K-$85K,0,1
+E0325,Andrew,Richards,D002,Senior Analyst,Remote,2024-04-09,,Active,89220,E0101,2.14,1-3 Years,$85K-$115K,0,1
+E0326,Kenneth,Pratt,D012,Associate,Texas,2018-10-01,,Active,45293,E0455,7.67,5+ Years,<$60K,0,1
+E0327,Mckenzie,Harmon,D012,Analyst,Florida,2021-09-12,,Active,64812,E0926,4.72,3-5 Years,$60K-$85K,0,1
+E0328,Suzanne,Miller,D001,Analyst,Florida,2020-02-21,2025-06-27,Terminated,65629,E0816,5.35,5+ Years,$60K-$85K,1,0
+E0329,Nicole,Underwood,D005,Associate,New York,2019-11-13,,Active,53746,E0384,6.55,5+ Years,<$60K,0,1
+E0330,Stephen,Luna,D003,Analyst,New York,2019-11-04,,Active,63001,E0544,6.57,5+ Years,$60K-$85K,0,1
+E0331,Brian,Rivera,D010,Analyst,Texas,2019-03-20,,Active,77341,E0812,7.2,5+ Years,$60K-$85K,0,1
+E0332,Sara,Smith,D003,Analyst,California,2025-06-28,,Active,60736,E0081,0.93,<1 Year,$60K-$85K,0,1
+E0333,Natasha,Collins,D007,Associate,California,2025-06-17,,Active,49891,E0510,0.96,<1 Year,<$60K,0,1
+E0334,Ronald,Stone,D003,Associate,Remote,2024-12-08,,Active,49608,E0473,1.48,1-3 Years,<$60K,0,1
+E0335,Andrew,Hawkins,D005,Associate,Remote,2022-07-14,,Active,57059,E0262,3.88,3-5 Years,<$60K,0,1
+E0336,Kelly,Perez,D001,Associate,Oklahoma,2019-09-10,,Active,57245,E0923,6.72,5+ Years,<$60K,0,1
+E0337,Kathryn,Graham,D011,Associate,Florida,2020-10-29,,Active,59910,E0162,5.59,5+ Years,<$60K,0,1
+E0338,Kristi,Shelton,D008,Analyst,Oklahoma,2018-09-29,,Active,66323,E0602,7.67,5+ Years,$60K-$85K,0,1
+E0339,Thomas,Rodriguez,D011,Associate,Oklahoma,2020-10-22,,Active,55903,E0707,5.61,5+ Years,<$60K,0,1
+E0340,Shaun,Williams,D008,Director,New York,2026-04-19,,Active,149799,E0204,0.12,<1 Year,$115K-$150K,0,1
+E0341,Justin,Bennett,D008,Senior Analyst,New York,2019-01-05,,Active,78494,E0243,7.4,5+ Years,$60K-$85K,0,1
+E0342,Mary,Gutierrez,D010,Associate,Oklahoma,2021-06-14,,Active,53762,E0589,4.96,3-5 Years,<$60K,0,1
+E0343,Barbara,Hicks,D012,Manager,Remote,2019-05-01,,Active,114348,E0023,7.09,5+ Years,$85K-$115K,0,1
+E0344,Crystal,Sutton,D007,Analyst,California,2024-05-06,,Active,63994,E0009,2.07,1-3 Years,$60K-$85K,0,1
+E0345,Brian,Williams,D011,Senior Analyst,Florida,2024-09-28,,Active,100503,E0763,1.67,1-3 Years,$85K-$115K,0,1
+E0346,Lisa,Martin,D010,Associate,Oklahoma,2018-06-15,,Active,58276,E0853,7.96,5+ Years,<$60K,0,1
+E0347,Jennifer,Stewart,D004,Analyst,Oklahoma,2020-05-27,,Active,74892,E0822,6.01,5+ Years,$60K-$85K,0,1
+E0348,Stephanie,Kelley,D004,Associate,Oklahoma,2022-02-28,,Active,48230,E0636,4.25,3-5 Years,<$60K,0,1
+E0349,Ryan,Rangel,D011,Associate,Florida,2024-02-15,,Active,46481,E0644,2.29,1-3 Years,<$60K,0,1
+E0350,Thomas,Gross,D011,Associate,New York,2025-09-17,,Active,43291,E0317,0.7,<1 Year,<$60K,0,1
+E0351,Melissa,Carter,D001,Analyst,Remote,2023-06-06,2025-10-26,Terminated,73991,E0374,2.39,1-3 Years,$60K-$85K,1,0
+E0352,Travis,Garrett,D003,Associate,Oklahoma,2021-12-30,,Active,44953,E0932,4.42,3-5 Years,<$60K,0,1
+E0353,Bryce,Terry,D006,Associate,Texas,2023-09-28,,Active,55615,E0180,2.67,1-3 Years,<$60K,0,1
+E0354,Brenda,Rollins,D003,Associate,Oklahoma,2024-12-17,,Active,59675,E0898,1.45,1-3 Years,<$60K,0,1
+E0355,Christina,Johnson,D009,Associate,Oklahoma,2018-12-13,,Active,58442,E0936,7.47,5+ Years,<$60K,0,1
+E0356,Peter,Zhang,D003,Senior Analyst,New York,2023-02-22,,Active,83420,E0936,3.27,3-5 Years,$60K-$85K,0,1
+E0357,Ashley,Martin,D005,Analyst,Oklahoma,2022-08-03,,Active,79463,E0892,3.83,3-5 Years,$60K-$85K,0,1
+E0358,Angela,Garza,D002,Associate,Florida,2025-07-02,,Active,57346,E0987,0.91,<1 Year,<$60K,0,1
+E0359,Natalie,Allen,D003,Senior Analyst,Texas,2023-09-02,,Active,99712,E0990,2.75,1-3 Years,$85K-$115K,0,1
+E0360,Lynn,Gill,D011,Associate,California,2026-03-20,,Active,55022,E0991,0.2,<1 Year,<$60K,0,1
+E0361,Carol,Mcdaniel,D006,Manager,New York,2022-02-26,,Active,100918,E0810,4.26,3-5 Years,$85K-$115K,0,1
+E0362,Michael,Martin,D001,Associate,Florida,2022-06-24,,Active,50665,E0550,3.94,3-5 Years,<$60K,0,1
+E0363,Tyler,Chandler,D008,Analyst,Remote,2023-06-15,,Active,67077,E0689,2.96,1-3 Years,$60K-$85K,0,1
+E0364,Richard,Johnson,D011,Associate,New York,2018-06-03,,Active,50590,E0599,7.99,5+ Years,<$60K,0,1
+E0365,Phyllis,Jones,D011,Associate,Remote,2024-11-14,,Active,54172,E0111,1.54,1-3 Years,<$60K,0,1
+E0366,James,Koch,D004,Associate,California,2020-07-01,,Active,57449,E0026,5.92,5+ Years,<$60K,0,1
+E0367,Michael,Johnston,D009,Senior Analyst,California,2020-03-08,,Active,85748,E0938,6.23,5+ Years,$85K-$115K,0,1
+E0368,Stephen,Cameron,D004,Analyst,Remote,2020-02-20,,Active,76222,E0065,6.28,5+ Years,$60K-$85K,0,1
+E0369,Sharon,Campbell,D008,Analyst,Remote,2026-01-22,,Active,77972,E0310,0.36,<1 Year,$60K-$85K,0,1
+E0370,Evelyn,Taylor,D007,Analyst,Florida,2022-03-04,,Active,58823,E0144,4.24,3-5 Years,<$60K,0,1
+E0371,Jasmine,Benton,D001,Analyst,Florida,2020-08-02,,Active,64973,E0505,5.83,5+ Years,$60K-$85K,0,1
+E0372,Andrea,Lee,D002,Senior Analyst,California,2021-07-09,,Active,82693,E0909,4.9,3-5 Years,$60K-$85K,0,1
+E0373,Kaylee,Sparks,D003,Associate,Oklahoma,2023-03-04,,Active,54735,E0465,3.24,3-5 Years,<$60K,0,1
+E0374,Brittney,Douglas,D011,Analyst,California,2019-02-20,,Active,79351,E0714,7.28,5+ Years,$60K-$85K,0,1
+E0375,Phillip,Villarreal,D007,Manager,Remote,2020-06-23,,Active,133491,E0761,5.94,5+ Years,$115K-$150K,0,1
+E0376,Dana,Mccormick,D003,Associate,Florida,2019-06-25,,Active,55594,E0671,6.93,5+ Years,<$60K,0,1
+E0377,Debbie,Randall,D008,Analyst,Oklahoma,2025-07-21,,Active,75173,E0418,0.86,<1 Year,$60K-$85K,0,1
+E0378,Kelly,Young,D001,Associate,New York,2021-02-03,,Active,54141,E0223,5.32,5+ Years,<$60K,0,1
+E0379,Luke,Martinez,D008,Analyst,Oklahoma,2018-11-12,,Active,62736,E0876,7.55,5+ Years,$60K-$85K,0,1
+E0380,Daniel,Morton,D002,Manager,Remote,2023-12-16,,Active,119073,E0558,2.46,1-3 Years,$115K-$150K,0,1
+E0381,Eugene,Cummings,D006,Associate,Oklahoma,2021-07-15,,Active,43984,E0408,4.88,3-5 Years,<$60K,0,1
+E0382,Anthony,Hayden,D004,Associate,New York,2021-10-31,,Active,46002,E0972,4.58,3-5 Years,<$60K,0,1
+E0383,Ashley,Richards,D002,Associate,Remote,2026-02-17,,Active,48950,E0658,0.28,<1 Year,<$60K,0,1
+E0384,Daniel,Mccoy,D010,Senior Analyst,Oklahoma,2024-11-04,,Active,75699,E0052,1.57,1-3 Years,$60K-$85K,0,1
+E0385,Margaret,Hernandez,D004,Associate,California,2024-06-18,,Active,46126,E0806,1.95,1-3 Years,<$60K,0,1
+E0386,Kimberly,Mcguire,D004,Associate,California,2022-11-05,,Active,44248,E0850,3.57,3-5 Years,<$60K,0,1
+E0387,Nicole,Bell,D004,Associate,Texas,2020-07-24,,Active,49076,E0833,5.85,5+ Years,<$60K,0,1
+E0388,Greg,Hernandez,D006,Senior Analyst,California,2025-09-11,,Active,100374,E0152,0.72,<1 Year,$85K-$115K,0,1
+E0389,Cory,Rodriguez,D001,Associate,Texas,2023-11-25,,Active,51085,E0880,2.52,1-3 Years,<$60K,0,1
+E0390,Stacy,Acosta,D003,Senior Analyst,Texas,2024-08-28,,Active,92701,E0257,1.76,1-3 Years,$85K-$115K,0,1
+E0391,Amy,Lucas,D002,Senior Analyst,Florida,2025-07-04,,Active,96661,E0888,0.91,<1 Year,$85K-$115K,0,1
+E0392,Abigail,Benjamin,D003,Associate,Texas,2019-05-15,,Active,42486,E0367,7.05,5+ Years,<$60K,0,1
+E0393,Stephanie,Williams,D010,Associate,Texas,2024-04-19,,Active,52609,E0017,2.12,1-3 Years,<$60K,0,1
+E0394,Rebecca,Walton,D005,Analyst,Remote,2025-02-02,,Active,56717,E0130,1.33,1-3 Years,<$60K,0,1
+E0395,Yvonne,Bates,D007,Analyst,Remote,2021-05-04,,Active,72238,E0117,5.08,5+ Years,$60K-$85K,0,1
+E0396,Dean,Wilson,D002,Associate,Oklahoma,2018-08-10,,Active,57605,E0460,7.81,5+ Years,<$60K,0,1
+E0397,Eric,Avery,D009,Analyst,New York,2026-03-09,,Active,74453,E0112,0.23,<1 Year,$60K-$85K,0,1
+E0398,Karen,Harmon,D009,Associate,California,2025-10-03,,Active,49259,E0969,0.66,<1 Year,<$60K,0,1
+E0399,Stephanie,Morrow,D001,Manager,New York,2021-05-13,,Active,129173,E0309,5.05,5+ Years,$115K-$150K,0,1
+E0400,Jessica,Graves,D011,Senior Analyst,New York,2026-04-09,,Active,76020,E0063,0.15,<1 Year,$60K-$85K,0,1
+E0401,Andrea,Cruz,D007,Senior Analyst,Florida,2021-08-23,,Active,88968,E0703,4.77,3-5 Years,$85K-$115K,0,1
+E0402,Zachary,Martinez,D008,Analyst,New York,2018-06-11,,Active,78343,E0932,7.97,5+ Years,$60K-$85K,0,1
+E0403,Alex,Adams,D002,Analyst,California,2022-06-24,,Active,57647,E0330,3.94,3-5 Years,<$60K,0,1
+E0404,Angela,Castillo,D003,Manager,Oklahoma,2019-12-14,,Active,99304,E0130,6.46,5+ Years,$85K-$115K,0,1
+E0405,Samantha,Odonnell,D010,Analyst,California,2020-07-09,2024-04-04,Terminated,75744,E0600,3.74,3-5 Years,$60K-$85K,1,0
+E0406,Darlene,Wilson,D012,Director,California,2022-05-13,,Active,151311,E0391,4.05,3-5 Years,$150K+,0,1
+E0407,Clinton,Adams,D009,Associate,California,2025-12-16,,Active,51663,E0465,0.46,<1 Year,<$60K,0,1
+E0408,Holly,Medina,D010,Manager,Remote,2021-04-22,,Active,123193,E0102,5.11,5+ Years,$115K-$150K,0,1
+E0409,Angela,Johnson,D002,Analyst,California,2025-10-15,,Active,76453,E0667,0.63,<1 Year,$60K-$85K,0,1
+E0410,Connie,Herrera,D012,Associate,New York,2020-10-11,,Active,49045,E0441,5.64,5+ Years,<$60K,0,1
+E0411,Maureen,White,D004,Senior Analyst,New York,2024-08-20,2026-04-18,Terminated,88559,E0348,1.66,1-3 Years,$85K-$115K,1,0
+E0412,Kevin,Smith,D007,Associate,Florida,2026-01-19,,Active,55631,E0748,0.36,<1 Year,<$60K,0,1
+E0413,Carlos,Carlson,D006,Analyst,Remote,2018-07-23,,Active,68984,E0321,7.86,5+ Years,$60K-$85K,0,1
+E0414,Brian,Carter,D005,Associate,Texas,2021-12-05,,Active,54265,E0977,4.49,3-5 Years,<$60K,0,1
+E0415,Kenneth,Rivera,D011,Senior Analyst,Florida,2019-03-18,,Active,90540,E0069,7.21,5+ Years,$85K-$115K,0,1
+E0416,Ronald,Brown,D002,Associate,Florida,2021-07-09,,Active,45054,E0443,4.9,3-5 Years,<$60K,0,1
+E0417,Jared,Acosta,D012,Associate,Texas,2019-12-08,,Active,54210,E0832,6.48,5+ Years,<$60K,0,1
+E0418,Michele,Stanley,D009,Analyst,California,2019-09-08,,Active,56965,E0601,6.73,5+ Years,<$60K,0,1
+E0419,Daniel,Garcia,D009,Manager,Florida,2024-01-05,,Active,116603,E0687,2.4,1-3 Years,$115K-$150K,0,1
+E0420,Maria,Velasquez,D007,Analyst,Remote,2024-04-16,,Active,66586,E0895,2.12,1-3 Years,$60K-$85K,0,1
+E0421,Julie,Arnold,D007,Associate,Oklahoma,2025-03-14,,Active,43685,E0992,1.22,1-3 Years,<$60K,0,1
+E0422,Brittany,Malone,D010,Associate,Florida,2020-10-08,,Active,52238,E0361,5.65,5+ Years,<$60K,0,1
+E0423,Nicolas,Carlson,D010,Associate,Texas,2018-08-31,,Active,58626,E0218,7.75,5+ Years,<$60K,0,1
+E0424,Susan,Marshall,D011,Associate,Florida,2025-06-15,,Active,57800,E0230,0.96,<1 Year,<$60K,0,1
+E0425,Kathryn,Banks,D006,Analyst,Florida,2018-06-16,,Active,73227,E0377,7.96,5+ Years,$60K-$85K,0,1
+E0426,Brian,Singleton,D005,Associate,New York,2023-03-27,,Active,49410,E0827,3.18,3-5 Years,<$60K,0,1
+E0427,Anthony,Cook,D009,Associate,Remote,2021-05-24,,Active,42860,E0624,5.02,5+ Years,<$60K,0,1
+E0428,Xavier,Rivera,D012,Associate,Texas,2021-12-31,,Active,50763,E0030,4.42,3-5 Years,<$60K,0,1
+E0429,Brian,Williams,D005,Associate,Oklahoma,2023-11-12,,Active,52124,E0944,2.55,1-3 Years,<$60K,0,1
+E0430,Kevin,Jones,D006,Analyst,Texas,2020-07-28,2025-07-13,Terminated,55200,E0186,4.96,3-5 Years,<$60K,1,0
+E0431,Rita,Lang,D010,Senior Analyst,Florida,2025-02-07,,Active,96539,E0411,1.31,1-3 Years,$85K-$115K,0,1
+E0432,Charles,Adams,D003,Analyst,Florida,2019-03-08,,Active,79280,E0649,7.23,5+ Years,$60K-$85K,0,1
+E0433,Carla,Cunningham,D002,Analyst,Texas,2020-12-01,,Active,79448,E0544,5.5,5+ Years,$60K-$85K,0,1
+E0434,Michael,Kerr,D007,Associate,Oklahoma,2021-08-27,,Active,55757,E0465,4.76,3-5 Years,<$60K,0,1
+E0435,Carol,Marshall,D003,Manager,Remote,2023-09-23,,Active,119251,E0320,2.69,1-3 Years,$115K-$150K,0,1
+E0436,Cristina,Anthony,D006,Analyst,Florida,2022-01-17,,Active,73598,E0611,4.37,3-5 Years,$60K-$85K,0,1
+E0437,Sarah,Lucero,D001,Analyst,California,2019-07-25,,Active,60098,E0162,6.85,5+ Years,$60K-$85K,0,1
+E0438,Justin,Edwards,D001,Associate,New York,2019-01-16,2019-08-19,Terminated,44673,E0279,0.59,<1 Year,<$60K,1,0
+E0439,Terrance,Allen,D011,Senior Analyst,California,2018-08-16,,Active,88894,E0498,7.79,5+ Years,$85K-$115K,0,1
+E0440,Jennifer,Macias,D008,Associate,Texas,2024-02-14,,Active,55571,E0280,2.29,1-3 Years,<$60K,0,1
+E0441,Nicholas,Carlson,D009,Associate,New York,2019-09-05,,Active,45729,E0354,6.74,5+ Years,<$60K,0,1
+E0442,Jackie,Hernandez,D002,Associate,Remote,2019-03-20,2020-03-14,Terminated,51281,E0695,0.99,<1 Year,<$60K,1,0
+E0443,Samuel,Thomas,D010,Senior Analyst,Remote,2018-06-24,,Active,90945,E0540,7.94,5+ Years,$85K-$115K,0,1
+E0444,Brittany,Nichols,D005,Senior Analyst,New York,2021-05-11,,Active,76488,E0226,5.06,5+ Years,$60K-$85K,0,1
+E0445,Joel,Meyer,D010,Associate,Texas,2021-12-08,,Active,43795,E0008,4.48,3-5 Years,<$60K,0,1
+E0446,Latoya,Thomas,D005,Senior Analyst,Texas,2020-02-08,,Active,81921,E0786,6.31,5+ Years,$60K-$85K,0,1
+E0447,Natalie,Whitehead,D005,Senior Analyst,Florida,2021-01-06,,Active,84484,E0336,5.4,5+ Years,$60K-$85K,0,1
+E0448,Bradley,Jacobs,D001,Senior Analyst,New York,2026-03-01,,Active,91298,E0765,0.25,<1 Year,$85K-$115K,0,1
+E0449,John,Lucas,D003,Associate,California,2023-07-15,,Active,46233,E0390,2.88,1-3 Years,<$60K,0,1
+E0450,Joseph,Keller,D012,Associate,California,2020-10-01,2025-05-21,Terminated,49540,E0513,4.64,3-5 Years,<$60K,1,0
+E0451,Kenneth,Riley,D011,Associate,New York,2025-07-24,2025-10-20,Terminated,53605,E0074,0.24,<1 Year,<$60K,1,0
+E0452,Jacob,Vargas,D012,Associate,Florida,2025-01-23,,Active,43386,E0447,1.35,1-3 Years,<$60K,0,1
+E0453,Michelle,Smith,D008,Analyst,Oklahoma,2019-01-29,,Active,57551,E0883,7.34,5+ Years,<$60K,0,1
+E0454,Roberto,Butler,D010,Senior Analyst,New York,2018-12-30,,Active,89066,E0588,7.42,5+ Years,$85K-$115K,0,1
+E0455,Shaun,Franklin,D012,Associate,Florida,2025-08-01,,Active,55686,E0297,0.83,<1 Year,<$60K,0,1
+E0456,Kristen,Moody,D007,Analyst,Oklahoma,2025-01-23,,Active,55683,E0990,1.35,1-3 Years,<$60K,0,1
+E0457,Lori,Jenkins,D003,Analyst,Remote,2025-02-18,,Active,75254,E0472,1.28,1-3 Years,$60K-$85K,0,1
+E0458,Justin,Bright,D006,Analyst,Florida,2025-02-20,,Active,57887,E0448,1.28,1-3 Years,<$60K,0,1
+E0459,Bryan,Kennedy,D004,Associate,New York,2019-04-02,,Active,56276,E0604,7.16,5+ Years,<$60K,0,1
+E0460,Daniel,Johnson,D009,Senior Analyst,Oklahoma,2018-08-31,,Active,77577,E0406,7.75,5+ Years,$60K-$85K,0,1
+E0461,Brian,Mccoy,D012,Manager,Oklahoma,2022-06-10,,Active,117250,E0227,3.98,3-5 Years,$115K-$150K,0,1
+E0462,Mark,Hess,D003,Manager,Remote,2021-05-20,,Active,100005,E0523,5.03,5+ Years,$85K-$115K,0,1
+E0463,Dana,Thompson,D002,Analyst,Texas,2018-08-27,2026-02-11,Terminated,72386,E0523,7.46,5+ Years,$60K-$85K,1,0
+E0464,Joan,Petersen,D006,Associate,Remote,2025-04-25,,Active,53504,E0745,1.1,1-3 Years,<$60K,0,1
+E0465,Sydney,Trevino,D003,Analyst,Texas,2020-04-15,,Active,62742,E0106,6.13,5+ Years,$60K-$85K,0,1
+E0466,Lisa,Foster,D005,Associate,California,2020-12-04,,Active,48464,E0178,5.49,5+ Years,<$60K,0,1
+E0467,Michelle,Davis,D003,Director,Remote,2021-08-13,,Active,179821,E0778,4.8,3-5 Years,$150K+,0,1
+E0468,Morgan,Mcguire,D002,Associate,Remote,2018-08-05,,Active,47804,E0975,7.82,5+ Years,<$60K,0,1
+E0469,Teresa,Chen,D008,Associate,California,2023-07-05,,Active,57202,E0773,2.91,1-3 Years,<$60K,0,1
+E0470,Sean,Riley,D010,Associate,California,2021-03-16,,Active,56709,E0698,5.21,5+ Years,<$60K,0,1
+E0471,Michael,Patel,D011,Associate,Remote,2022-04-09,,Active,52590,E0885,4.15,3-5 Years,<$60K,0,1
+E0472,Robert,Brown,D006,Senior Analyst,Florida,2019-05-14,,Active,79946,E0451,7.05,5+ Years,$60K-$85K,0,1
+E0473,James,Hernandez,D008,Associate,Oklahoma,2019-04-06,2021-01-26,Terminated,56490,E0647,1.81,1-3 Years,<$60K,1,0
+E0474,Christina,Morrow,D005,Associate,California,2025-08-01,,Active,43840,E0361,0.83,<1 Year,<$60K,0,1
+E0475,Maria,Miller,D002,Manager,New York,2021-05-27,,Active,115342,E0473,5.01,5+ Years,$115K-$150K,0,1
+E0476,Joseph,Garcia,D001,Analyst,Oklahoma,2020-07-10,,Active,56864,E0378,5.89,5+ Years,<$60K,0,1
+E0477,Jessica,Perry,D002,Associate,California,2018-12-13,,Active,44958,E0630,7.47,5+ Years,<$60K,0,1
+E0478,Brian,Oconnell,D009,Analyst,California,2022-02-04,,Active,67598,E0474,4.32,3-5 Years,$60K-$85K,0,1
+E0479,Lisa,Chung,D009,Analyst,Florida,2025-12-14,2026-01-25,Terminated,79212,E0918,0.11,<1 Year,$60K-$85K,1,0
+E0480,Nathan,Smith,D008,Associate,California,2019-01-11,,Active,48168,E0330,7.39,5+ Years,<$60K,0,1
+E0481,Megan,Casey,D008,Associate,Florida,2024-09-03,,Active,58428,E0155,1.74,1-3 Years,<$60K,0,1
+E0482,Matthew,Maxwell,D008,Associate,Oklahoma,2021-07-29,,Active,45391,E0831,4.84,3-5 Years,<$60K,0,1
+E0483,Sherry,Tran,D012,Associate,Remote,2024-09-03,,Active,44763,E0517,1.74,1-3 Years,<$60K,0,1
+E0484,Craig,Green,D003,Senior Analyst,Remote,2022-11-19,,Active,76282,E0254,3.53,3-5 Years,$60K-$85K,0,1
+E0485,Michael,Gentry,D008,Analyst,California,2025-07-08,,Active,69398,E0537,0.9,<1 Year,$60K-$85K,0,1
+E0486,Debbie,Hicks,D010,Senior Analyst,Oklahoma,2021-09-03,,Active,80201,E0373,4.74,3-5 Years,$60K-$85K,0,1
+E0487,James,Cruz,D005,Senior Analyst,Oklahoma,2023-10-20,,Active,87694,E0419,2.61,1-3 Years,$85K-$115K,0,1
+E0488,Ian,Caldwell,D011,Associate,Remote,2023-03-24,,Active,43715,E0809,3.19,3-5 Years,<$60K,0,1
+E0489,Brandon,Douglas,D011,Analyst,Oklahoma,2020-12-02,2022-08-14,Terminated,65965,E0068,1.7,1-3 Years,$60K-$85K,1,0
+E0490,Kathleen,Love,D002,Analyst,New York,2019-07-10,,Active,73283,E0695,6.89,5+ Years,$60K-$85K,0,1
+E0491,Ryan,Chavez,D005,Associate,Remote,2021-06-04,,Active,50257,E0742,4.99,3-5 Years,<$60K,0,1
+E0492,Richard,Sanders,D010,Associate,Florida,2024-02-12,2026-01-30,Terminated,46927,E0342,1.97,1-3 Years,<$60K,1,0
+E0493,Karen,Saunders,D010,Senior Analyst,Oklahoma,2019-11-23,,Active,96745,E0145,6.52,5+ Years,$85K-$115K,0,1
+E0494,Sandra,Stephens,D005,Senior Analyst,Remote,2018-08-16,,Active,96497,E0716,7.79,5+ Years,$85K-$115K,0,1
+E0495,Dana,Walters,D007,Associate,Remote,2023-06-24,,Active,46225,E0610,2.94,1-3 Years,<$60K,0,1
+E0496,Cheryl,Hancock,D002,Senior Analyst,New York,2024-01-01,,Active,85144,E0573,2.41,1-3 Years,$85K-$115K,0,1
+E0497,Stephanie,Browning,D011,Associate,Texas,2025-07-11,,Active,52763,E0833,0.89,<1 Year,<$60K,0,1
+E0498,Donna,Goodwin,D011,Analyst,Remote,2023-02-06,2025-04-25,Terminated,78030,E0849,2.21,1-3 Years,$60K-$85K,1,0
+E0499,Julia,Hunter,D011,Manager,Remote,2019-02-14,,Active,129497,E0096,7.29,5+ Years,$115K-$150K,0,1
+E0500,Victor,Marsh,D011,Director,Oklahoma,2024-03-20,,Active,157748,E0521,2.2,1-3 Years,$150K+,0,1
+E0501,Angela,Underwood,D001,Associate,Texas,2020-05-21,,Active,53881,E0317,6.03,5+ Years,<$60K,0,1
+E0502,Latasha,Fritz,D004,Manager,New York,2023-12-11,,Active,117395,E0971,2.47,1-3 Years,$115K-$150K,0,1
+E0503,Christopher,Davis,D004,Senior Analyst,Texas,2022-07-14,,Active,82423,E0141,3.88,3-5 Years,$60K-$85K,0,1
+E0504,Brandon,Cooper,D002,Senior Analyst,Florida,2022-02-11,,Active,84692,E0865,4.3,3-5 Years,$60K-$85K,0,1
+E0505,Derek,Simpson,D009,Associate,Remote,2021-07-10,,Active,59687,E0856,4.89,3-5 Years,<$60K,0,1
+E0506,Sarah,Becker,D009,Associate,Oklahoma,2026-03-04,,Active,43236,E0678,0.24,<1 Year,<$60K,0,1
+E0507,Jason,Villarreal,D010,Manager,New York,2023-07-14,2024-09-27,Terminated,103588,E0612,1.21,1-3 Years,$85K-$115K,1,0
+E0508,Karen,Porter,D003,Senior Analyst,Remote,2023-11-11,,Active,80316,E0186,2.55,1-3 Years,$60K-$85K,0,1
+E0509,Gary,Paul,D010,Associate,New York,2021-07-10,,Active,47424,E0739,4.89,3-5 Years,<$60K,0,1
+E0510,Virginia,Graves,D001,Manager,Remote,2021-12-17,2025-10-16,Terminated,121926,E0374,3.83,3-5 Years,$115K-$150K,1,0
+E0511,William,Rogers,D012,Senior Analyst,New York,2022-05-11,,Active,82783,E0993,4.06,3-5 Years,$60K-$85K,0,1
+E0512,James,Cox,D010,Manager,Remote,2020-02-09,,Active,113673,E0771,6.31,5+ Years,$85K-$115K,0,1
+E0513,Charles,Brown,D008,Manager,Texas,2019-08-23,,Active,110335,E0547,6.77,5+ Years,$85K-$115K,0,1
+E0514,Christopher,Lam,D005,Manager,Texas,2023-03-08,,Active,125737,E0926,3.23,3-5 Years,$115K-$150K,0,1
+E0515,Jason,Peterson,D006,Associate,Oklahoma,2020-07-04,,Active,56437,E0473,5.91,5+ Years,<$60K,0,1
+E0516,Christopher,Duarte,D007,Associate,New York,2023-12-09,,Active,58479,E0541,2.48,1-3 Years,<$60K,0,1
+E0517,Joshua,Wallace,D003,Associate,California,2022-06-02,,Active,48543,E0821,4.0,3-5 Years,<$60K,0,1
+E0518,Amanda,Morgan,D003,Associate,Remote,2025-09-10,,Active,50192,E0054,0.72,<1 Year,<$60K,0,1
+E0519,Frederick,Miller,D008,Associate,Florida,2022-04-23,,Active,54163,E0568,4.11,3-5 Years,<$60K,0,1
+E0520,Paul,Grant,D012,Associate,Florida,2021-09-02,,Active,58905,E0872,4.74,3-5 Years,<$60K,0,1
+E0521,Megan,Wilson,D005,Analyst,Texas,2020-04-27,,Active,57748,E0782,6.09,5+ Years,<$60K,0,1
+E0522,Sarah,Moss,D005,Associate,California,2018-07-16,,Active,56723,E0928,7.88,5+ Years,<$60K,0,1
+E0523,Heather,Carpenter,D003,Manager,Texas,2022-01-05,,Active,123670,E0094,4.4,3-5 Years,$115K-$150K,0,1
+E0524,Joan,May,D008,Associate,Florida,2020-02-14,2021-05-26,Terminated,53455,E0953,1.28,1-3 Years,<$60K,1,0
+E0525,Adam,Rodriguez,D007,Manager,California,2021-06-02,2023-12-30,Terminated,98490,E0406,2.58,1-3 Years,$85K-$115K,1,0
+E0526,Amanda,Haas,D006,Manager,Florida,2024-06-09,,Active,110451,E0396,1.98,1-3 Years,$85K-$115K,0,1
+E0527,Francisco,Allen,D006,Manager,Oklahoma,2023-03-02,,Active,109715,E0029,3.25,3-5 Years,$85K-$115K,0,1
+E0528,Heather,Robinson,D002,Director,Oklahoma,2020-09-26,,Active,176838,E0666,5.68,5+ Years,$150K+,0,1
+E0529,Edwin,Flores,D003,Senior Analyst,Oklahoma,2018-12-17,,Active,79508,E0040,7.46,5+ Years,$60K-$85K,0,1
+E0530,Duane,Pierce,D008,Analyst,Texas,2025-01-21,,Active,77808,E0852,1.36,1-3 Years,$60K-$85K,0,1
+E0531,Jose,Payne,D012,Manager,California,2023-10-22,,Active,125743,E0460,2.61,1-3 Years,$115K-$150K,0,1
+E0532,Scott,Morris,D001,Senior Analyst,Florida,2022-03-06,,Active,104683,E0082,4.24,3-5 Years,$85K-$115K,0,1
+E0533,Christopher,Martin,D005,Analyst,Texas,2026-03-19,,Active,62066,E0856,0.2,<1 Year,$60K-$85K,0,1
+E0534,Loretta,Clay,D009,Associate,Florida,2018-07-07,2019-06-27,Terminated,59294,E0434,0.97,<1 Year,<$60K,1,0
+E0535,Richard,Harris,D005,Analyst,Florida,2024-01-29,,Active,62786,E0309,2.34,1-3 Years,$60K-$85K,0,1
+E0536,Jacob,Powell,D001,Associate,Remote,2021-07-29,,Active,49813,E0430,4.84,3-5 Years,<$60K,0,1
+E0537,Justin,Turner,D010,Associate,Florida,2025-07-23,2026-02-23,Terminated,56978,E0065,0.59,<1 Year,<$60K,1,0
+E0538,Mark,Jensen,D008,Director,Florida,2025-12-26,,Active,169107,E0549,0.43,<1 Year,$150K+,0,1
+E0539,Chelsea,Watkins,D011,Analyst,Texas,2023-02-22,,Active,71887,E0589,3.27,3-5 Years,$60K-$85K,0,1
+E0540,Kelly,Lopez,D012,Associate,New York,2023-05-25,,Active,46704,E0299,3.02,3-5 Years,<$60K,0,1
+E0541,Judy,Mills,D001,Senior Analyst,Texas,2022-01-11,2025-03-08,Terminated,95146,E0362,3.15,3-5 Years,$85K-$115K,1,0
+E0542,Lauren,Gonzalez,D010,Analyst,Remote,2023-03-24,,Active,68650,E0192,3.19,3-5 Years,$60K-$85K,0,1
+E0543,Joann,Roth,D011,Manager,Oklahoma,2021-04-16,,Active,100610,E0537,5.13,5+ Years,$85K-$115K,0,1
+E0544,Darrell,Fletcher,D002,Analyst,California,2021-06-26,2024-10-19,Terminated,72237,E0558,3.32,3-5 Years,$60K-$85K,1,0
+E0545,Jeffrey,Barnes,D009,Director,New York,2024-04-04,,Active,166316,E0021,2.16,1-3 Years,$150K+,0,1
+E0546,Ronald,Jones,D008,Manager,New York,2023-04-15,,Active,97853,E0651,3.13,3-5 Years,$85K-$115K,0,1
+E0547,Laura,Fox,D006,Analyst,Florida,2021-09-18,,Active,63311,E0766,4.7,3-5 Years,$60K-$85K,0,1
+E0548,Pamela,Torres,D006,Associate,Texas,2018-12-11,,Active,44213,E0354,7.47,5+ Years,<$60K,0,1
+E0549,Latasha,Melendez,D012,Associate,California,2022-02-05,,Active,45396,E0791,4.32,3-5 Years,<$60K,0,1
+E0550,Andrew,Pugh,D012,Senior Analyst,Texas,2024-09-26,,Active,99794,E0341,1.68,1-3 Years,$85K-$115K,0,1
+E0551,Nicole,Bird,D001,Associate,Oklahoma,2020-06-11,,Active,53544,E0560,5.97,5+ Years,<$60K,0,1
+E0552,Ronald,York,D011,Manager,Remote,2021-12-05,,Active,106474,E0851,4.49,3-5 Years,$85K-$115K,0,1
+E0553,Steven,Bailey,D008,Director,Remote,2022-08-24,,Active,175573,E0491,3.77,3-5 Years,$150K+,0,1
+E0554,Richard,Hubbard,D003,Analyst,Remote,2018-08-22,,Active,59418,E0065,7.78,5+ Years,<$60K,0,1
+E0555,Claudia,Abbott,D008,Senior Analyst,Texas,2025-10-08,,Active,76211,E0301,0.65,<1 Year,$60K-$85K,0,1
+E0556,David,Porter,D001,Senior Analyst,Florida,2020-06-04,,Active,100923,E0205,5.99,5+ Years,$85K-$115K,0,1
+E0557,William,Carpenter,D006,Associate,New York,2025-10-28,,Active,52160,E0528,0.59,<1 Year,<$60K,0,1
+E0558,Amy,Hudson,D009,Analyst,Florida,2023-05-25,,Active,70512,E0260,3.02,3-5 Years,$60K-$85K,0,1
+E0559,Theresa,Horn,D011,Associate,Oklahoma,2025-01-17,,Active,48262,E0293,1.37,1-3 Years,<$60K,0,1
+E0560,Robert,Dunn,D001,Associate,Florida,2026-02-21,2026-05-15,Terminated,52876,E0280,0.23,<1 Year,<$60K,1,0
+E0561,Latoya,Nelson,D006,Manager,New York,2024-12-18,,Active,123636,E0911,1.45,1-3 Years,$115K-$150K,0,1
+E0562,Margaret,Figueroa,D012,Manager,New York,2021-01-05,,Active,123818,E0917,5.4,5+ Years,$115K-$150K,0,1
+E0563,Alyssa,Thomas,D006,Senior Analyst,Remote,2023-12-02,,Active,81121,E0509,2.5,1-3 Years,$60K-$85K,0,1
+E0564,Veronica,Brooks,D008,Associate,California,2021-12-03,,Active,54037,E0947,4.49,3-5 Years,<$60K,0,1
+E0565,Matthew,Gonzalez,D005,Analyst,New York,2022-08-21,,Active,57707,E0745,3.78,3-5 Years,<$60K,0,1
+E0566,Brian,Francis,D002,Senior Analyst,Texas,2023-05-08,,Active,89110,E0617,3.07,3-5 Years,$85K-$115K,0,1
+E0567,Randy,Bailey,D009,Associate,Florida,2026-04-14,,Active,51626,E0329,0.13,<1 Year,<$60K,0,1
+E0568,Charles,Brown,D002,Senior Analyst,Oklahoma,2020-10-19,2025-01-20,Terminated,85745,E0677,4.25,3-5 Years,$85K-$115K,1,0
+E0569,Brandy,Gibson,D005,Manager,Remote,2024-09-07,,Active,124223,E0618,1.73,1-3 Years,$115K-$150K,0,1
+E0570,Joseph,Kennedy,D007,Analyst,New York,2018-06-06,,Active,60460,E0707,7.99,5+ Years,$60K-$85K,0,1
+E0571,Robyn,Garner,D006,Senior Analyst,Remote,2020-08-19,,Active,89651,E0044,5.78,5+ Years,$85K-$115K,0,1
+E0572,Anna,Stephens,D006,Senior Analyst,Oklahoma,2019-10-02,,Active,95147,E0446,6.66,5+ Years,$85K-$115K,0,1
+E0573,James,Lee,D011,Associate,Remote,2024-08-21,,Active,43879,E0077,1.78,1-3 Years,<$60K,0,1
+E0574,Mary,Benson,D011,Senior Analyst,California,2019-05-04,,Active,88310,E0373,7.08,5+ Years,$85K-$115K,0,1
+E0575,Kirk,Skinner,D012,Manager,Florida,2024-12-29,,Active,105484,E0976,1.42,1-3 Years,$85K-$115K,0,1
+E0576,Ashley,George,D003,Senior Analyst,Remote,2022-05-25,,Active,102809,E0623,4.02,3-5 Years,$85K-$115K,0,1
+E0577,Joshua,Hernandez,D008,Senior Analyst,Florida,2022-11-26,,Active,76140,E0130,3.51,3-5 Years,$60K-$85K,0,1
+E0578,Diana,Lewis,D004,Analyst,Oklahoma,2020-07-12,,Active,76140,E0376,5.89,5+ Years,$60K-$85K,0,1
+E0579,Jennifer,Patel,D007,Associate,Texas,2018-12-06,,Active,43061,E0620,7.49,5+ Years,<$60K,0,1
+E0580,Angela,Noble,D011,Manager,Oklahoma,2025-04-11,2025-11-27,Terminated,124486,E0972,0.63,<1 Year,$115K-$150K,1,0
+E0581,Stephen,Richardson,D006,Senior Analyst,Florida,2023-12-23,,Active,89547,E0782,2.44,1-3 Years,$85K-$115K,0,1
+E0582,Tiffany,Lawson,D010,Associate,Oklahoma,2018-11-29,,Active,46511,E0543,7.5,5+ Years,<$60K,0,1
+E0583,Kyle,Baker,D007,Associate,Oklahoma,2019-03-11,,Active,52301,E0666,7.23,5+ Years,<$60K,0,1
+E0584,Heather,Rivera,D004,Senior Analyst,Remote,2025-11-04,,Active,78717,E0027,0.57,<1 Year,$60K-$85K,0,1
+E0585,Gary,Hester,D003,Associate,New York,2020-03-04,,Active,58352,E0531,6.24,5+ Years,<$60K,0,1
+E0586,Jesse,Dougherty,D009,Analyst,Oklahoma,2026-04-20,,Active,58858,E0269,0.11,<1 Year,<$60K,0,1
+E0587,Deanna,Brown,D012,Analyst,California,2019-05-04,,Active,69623,E0220,7.08,5+ Years,$60K-$85K,0,1
+E0588,Logan,Ward,D005,Analyst,New York,2022-01-14,,Active,77740,E0939,4.38,3-5 Years,$60K-$85K,0,1
+E0589,David,Walsh,D004,Senior Analyst,Florida,2021-08-03,2023-04-12,Terminated,79018,E0139,1.69,1-3 Years,$60K-$85K,1,0
+E0590,Elizabeth,Hall,D008,Senior Analyst,Remote,2022-11-22,,Active,80657,E0921,3.52,3-5 Years,$60K-$85K,0,1
+E0591,Steven,Griffith,D008,Director,Remote,2024-12-08,,Active,135753,E0830,1.48,1-3 Years,$115K-$150K,0,1
+E0592,Yvonne,Gomez,D006,Analyst,Remote,2024-07-15,,Active,76883,E0356,1.88,1-3 Years,$60K-$85K,0,1
+E0593,Joseph,Walker,D002,Associate,Oklahoma,2025-06-06,,Active,59765,E0298,0.99,<1 Year,<$60K,0,1
+E0594,Daisy,Henry,D003,Senior Analyst,Remote,2022-10-27,2026-03-04,Terminated,98324,E0727,3.35,3-5 Years,$85K-$115K,1,0
+E0595,Anthony,Lewis,D011,Associate,Oklahoma,2022-07-31,,Active,47704,E0813,3.84,3-5 Years,<$60K,0,1
+E0596,David,Terry,D009,Associate,Texas,2018-10-11,,Active,49347,E0125,7.64,5+ Years,<$60K,0,1
+E0597,Mark,Sullivan,D003,Associate,New York,2024-08-29,,Active,49757,E0810,1.75,1-3 Years,<$60K,0,1
+E0598,Charles,Christensen,D001,Associate,California,2022-03-23,,Active,53825,E0568,4.19,3-5 Years,<$60K,0,1
+E0599,Earl,Stephenson,D006,Director,California,2023-11-09,,Active,160631,E0823,2.56,1-3 Years,$150K+,0,1
+E0600,Jeremy,Jackson,D003,Senior Analyst,Florida,2021-04-09,,Active,95052,E0906,5.14,5+ Years,$85K-$115K,0,1
+E0601,David,Alexander,D002,Senior Analyst,Remote,2019-04-15,2026-05-24,Terminated,85134,E0408,7.11,5+ Years,$85K-$115K,1,0
+E0602,Emily,Cochran,D012,Associate,New York,2021-12-31,,Active,57684,E0539,4.42,3-5 Years,<$60K,0,1
+E0603,Gabrielle,Smith,D007,Analyst,Texas,2019-04-22,,Active,73838,E0076,7.11,5+ Years,$60K-$85K,0,1
+E0604,Travis,Jennings,D006,Senior Analyst,New York,2025-03-31,,Active,96048,E0076,1.17,1-3 Years,$85K-$115K,0,1
+E0605,Tina,Bradshaw,D008,Associate,Texas,2025-02-13,,Active,58952,E0353,1.3,1-3 Years,<$60K,0,1
+E0606,Heather,Johnston,D009,Analyst,Texas,2021-03-19,,Active,75964,E0602,5.2,5+ Years,$60K-$85K,0,1
+E0607,Carolyn,Browning,D003,Associate,Florida,2024-07-09,,Active,56176,E0515,1.89,1-3 Years,<$60K,0,1
+E0608,Richard,Hall,D002,Senior Analyst,Oklahoma,2022-08-03,,Active,91977,E0157,3.83,3-5 Years,$85K-$115K,0,1
+E0609,Veronica,Jacobson,D003,Associate,Remote,2023-01-09,,Active,47307,E0331,3.39,3-5 Years,<$60K,0,1
+E0610,Rodney,Hall,D004,Senior Analyst,California,2023-10-27,,Active,86338,E0971,2.6,1-3 Years,$85K-$115K,0,1
+E0611,Amy,Davis,D005,Director,Texas,2025-09-02,,Active,135168,E0257,0.74,<1 Year,$115K-$150K,0,1
+E0612,Jose,Thomas,D011,Analyst,Texas,2022-03-21,,Active,73049,E0282,4.2,3-5 Years,$60K-$85K,0,1
+E0613,Caitlin,Matthews,D011,Analyst,California,2025-04-12,,Active,64922,E0630,1.14,1-3 Years,$60K-$85K,0,1
+E0614,Nicole,Gibson,D002,Analyst,Texas,2019-05-29,,Active,71468,E0657,7.01,5+ Years,$60K-$85K,0,1
+E0615,John,Brown,D010,Director,Texas,2020-09-06,,Active,168053,E0158,5.73,5+ Years,$150K+,0,1
+E0616,Sandra,Blanchard,D011,Manager,California,2022-10-31,,Active,134658,E0346,3.58,3-5 Years,$115K-$150K,0,1
+E0617,Jacqueline,Olsen,D001,Associate,Florida,2018-08-21,2025-07-28,Terminated,42929,E0084,6.93,5+ Years,<$60K,1,0
+E0618,Derek,Watson,D011,Senior Analyst,Oklahoma,2020-10-07,,Active,100264,E0591,5.65,5+ Years,$85K-$115K,0,1
+E0619,Bruce,Rich,D011,Manager,California,2024-01-01,,Active,108815,E0786,2.41,1-3 Years,$85K-$115K,0,1
+E0620,Ellen,Ewing,D007,Director,Florida,2023-08-21,,Active,170508,E0655,2.78,1-3 Years,$150K+,0,1
+E0621,Zachary,Freeman,D008,Manager,Remote,2021-02-19,,Active,130754,E0297,5.28,5+ Years,$115K-$150K,0,1
+E0622,Joseph,Welch,D005,Senior Analyst,Remote,2020-12-04,,Active,90825,E0251,5.49,5+ Years,$85K-$115K,0,1
+E0623,Sarah,Thomas,D007,Senior Analyst,Florida,2019-08-26,,Active,84746,E0465,6.77,5+ Years,$60K-$85K,0,1
+E0624,Eric,Solis,D012,Associate,New York,2020-04-13,2026-04-05,Terminated,43963,E0162,5.98,5+ Years,<$60K,1,0
+E0625,Brandon,Miller,D007,Manager,Texas,2025-02-08,,Active,126735,E0476,1.31,1-3 Years,$115K-$150K,0,1
+E0626,Danny,Bryan,D006,Senior Analyst,Oklahoma,2025-02-02,,Active,94879,E0148,1.33,1-3 Years,$85K-$115K,0,1
+E0627,Colleen,Walker,D012,Associate,Oklahoma,2018-07-04,,Active,52463,E0752,7.91,5+ Years,<$60K,0,1
+E0628,Suzanne,Davis,D007,Senior Analyst,Oklahoma,2023-02-18,,Active,79284,E0779,3.28,3-5 Years,$60K-$85K,0,1
+E0629,Kathleen,Anderson,D009,Associate,Texas,2022-09-21,,Active,45479,E0327,3.69,3-5 Years,<$60K,0,1
+E0630,Anthony,Fields,D008,Associate,New York,2026-04-29,,Active,46014,E0274,0.09,<1 Year,<$60K,0,1
+E0631,Michael,Jackson,D004,Associate,Florida,2021-08-23,,Active,46616,E0100,4.77,3-5 Years,<$60K,0,1
+E0632,Shari,Santos,D005,Associate,California,2024-09-17,,Active,54587,E0885,1.7,1-3 Years,<$60K,0,1
+E0633,Michele,Sweeney,D007,Associate,Texas,2025-03-12,2025-10-17,Terminated,50135,E0986,0.6,<1 Year,<$60K,1,0
+E0634,Kevin,Mcintyre,D006,Analyst,Oklahoma,2024-09-29,,Active,73929,E0739,1.67,1-3 Years,$60K-$85K,0,1
+E0635,Michael,Henderson,D004,Analyst,California,2021-06-12,,Active,60221,E0511,4.97,3-5 Years,$60K-$85K,0,1
+E0636,Tracey,Collins,D008,Senior Analyst,Oklahoma,2021-02-08,,Active,91343,E0901,5.31,5+ Years,$85K-$115K,0,1
+E0637,George,Doyle,D008,Senior Analyst,New York,2020-01-27,2025-04-24,Terminated,75759,E0093,5.24,5+ Years,$60K-$85K,1,0
+E0638,Nancy,Mason,D009,Analyst,Texas,2019-02-13,2019-09-09,Terminated,69982,E0990,0.57,<1 Year,$60K-$85K,1,0
+E0639,Alexis,Koch,D004,Associate,Florida,2018-08-10,,Active,53563,E0050,7.81,5+ Years,<$60K,0,1
+E0640,Carolyn,Rivera,D005,Associate,Remote,2023-10-15,,Active,58216,E0612,2.63,1-3 Years,<$60K,0,1
+E0641,Duane,Bradford,D011,Analyst,California,2025-02-11,,Active,70420,E0293,1.3,1-3 Years,$60K-$85K,0,1
+E0642,Jenny,Hodge,D001,Analyst,Texas,2025-01-08,2025-07-09,Terminated,58522,E0442,0.5,<1 Year,<$60K,1,0
+E0643,Paige,Bennett,D005,Associate,New York,2022-01-30,,Active,53985,E0783,4.33,3-5 Years,<$60K,0,1
+E0644,Erika,Becker,D006,Associate,Florida,2025-08-09,,Active,43482,E0411,0.81,<1 Year,<$60K,0,1
+E0645,Margaret,Hernandez,D010,Associate,California,2025-09-22,2026-05-07,Terminated,48378,E0372,0.62,<1 Year,<$60K,1,0
+E0646,Maria,Daniels,D005,Analyst,California,2023-07-01,,Active,57409,E0396,2.92,1-3 Years,<$60K,0,1
+E0647,Taylor,Arellano,D008,Analyst,California,2022-06-17,,Active,73017,E0287,3.96,3-5 Years,$60K-$85K,0,1
+E0648,Shelly,Kelly,D011,Senior Analyst,Texas,2023-08-27,,Active,95022,E0122,2.76,1-3 Years,$85K-$115K,0,1
+E0649,Christine,White,D002,Associate,Oklahoma,2024-10-30,2026-02-09,Terminated,54907,E0383,1.28,1-3 Years,<$60K,1,0
+E0650,Candice,Alvarez,D009,Analyst,Texas,2021-01-09,,Active,66980,E0774,5.39,5+ Years,$60K-$85K,0,1
+E0651,Maria,Wright,D004,Associate,California,2023-07-11,,Active,58682,E0412,2.89,1-3 Years,<$60K,0,1
+E0652,Benjamin,Garcia,D001,Associate,Texas,2019-07-05,,Active,43484,E0040,6.91,5+ Years,<$60K,0,1
+E0653,Peggy,Brock,D012,Senior Analyst,New York,2018-12-18,,Active,85913,E0824,7.45,5+ Years,$85K-$115K,0,1
+E0654,Lauren,Santiago,D009,Senior Analyst,California,2021-05-26,,Active,89974,E0153,5.02,5+ Years,$85K-$115K,0,1
+E0655,Madison,Morgan,D009,Associate,California,2025-05-30,,Active,46580,E0336,1.0,<1 Year,<$60K,0,1
+E0656,Michelle,Ross,D006,Associate,California,2021-04-11,,Active,47324,E0403,5.14,5+ Years,<$60K,0,1
+E0657,Tom,Romero,D012,Analyst,Oklahoma,2022-08-13,,Active,64805,E0608,3.8,3-5 Years,$60K-$85K,0,1
+E0658,Alexandra,Bradford,D009,Analyst,New York,2018-10-11,,Active,71702,E0546,7.64,5+ Years,$60K-$85K,0,1
+E0659,Jason,Thompson,D012,Analyst,New York,2019-12-11,,Active,73445,E0307,6.47,5+ Years,$60K-$85K,0,1
+E0660,Michael,Washington,D001,Associate,Remote,2021-12-18,2022-01-20,Terminated,54070,E0340,0.09,<1 Year,<$60K,1,0
+E0661,Eric,Duffy,D002,Associate,Oklahoma,2019-02-28,2023-07-28,Terminated,55649,E0598,4.41,3-5 Years,<$60K,1,0
+E0662,Jill,White,D012,Manager,New York,2020-11-15,,Active,96746,E0612,5.54,5+ Years,$85K-$115K,0,1
+E0663,Kathy,Burns,D005,Director,California,2025-04-23,,Active,172964,E0802,1.11,1-3 Years,$150K+,0,1
+E0664,Brian,Perez,D010,Associate,Florida,2025-07-29,,Active,49456,E0739,0.84,<1 Year,<$60K,0,1
+E0665,Jonathan,French,D010,Senior Analyst,California,2019-09-17,,Active,90743,E0175,6.7,5+ Years,$85K-$115K,0,1
+E0666,Adriana,Barnett,D011,Analyst,New York,2022-08-25,,Active,78631,E0635,3.77,3-5 Years,$60K-$85K,0,1
+E0667,Jenny,Casey,D003,Associate,California,2023-05-07,,Active,49936,E0033,3.07,3-5 Years,<$60K,0,1
+E0668,Jeffery,Davies,D012,Director,Florida,2025-01-09,,Active,137202,E0196,1.39,1-3 Years,$115K-$150K,0,1
+E0669,Amanda,Aguirre,D008,Associate,Texas,2023-01-24,,Active,52279,E0429,3.35,3-5 Years,<$60K,0,1
+E0670,Cody,Bennett,D007,Associate,California,2021-03-18,2021-06-21,Terminated,48681,E0421,0.26,<1 Year,<$60K,1,0
+E0671,Jose,Lowery,D010,Associate,Remote,2023-12-19,,Active,57453,E0894,2.45,1-3 Years,<$60K,0,1
+E0672,Ashley,Simpson,D012,Manager,Texas,2022-07-16,,Active,99081,E0723,3.88,3-5 Years,$85K-$115K,0,1
+E0673,Laura,Bell,D009,Senior Analyst,Oklahoma,2019-02-20,,Active,81794,E0575,7.28,5+ Years,$60K-$85K,0,1
+E0674,John,Davidson,D011,Associate,New York,2018-10-11,,Active,57675,E0539,7.64,5+ Years,<$60K,0,1
+E0675,Frank,Miller,D006,Director,California,2024-06-30,2025-07-24,Terminated,141349,E0471,1.07,1-3 Years,$115K-$150K,1,0
+E0676,Natasha,Wright,D006,Manager,Remote,2025-02-10,,Active,130800,E0363,1.3,1-3 Years,$115K-$150K,0,1
+E0677,Sara,Gill,D012,Analyst,Remote,2019-03-21,,Active,77306,E0659,7.2,5+ Years,$60K-$85K,0,1
+E0678,Anne,Morse,D005,Analyst,Texas,2019-01-03,,Active,74990,E0496,7.41,5+ Years,$60K-$85K,0,1
+E0679,Holly,Sheppard,D004,Manager,Oklahoma,2020-10-29,,Active,113284,E0572,5.59,5+ Years,$85K-$115K,0,1
+E0680,Mary,Simpson,D004,Associate,Oklahoma,2026-03-24,,Active,51752,E0790,0.19,<1 Year,<$60K,0,1
+E0681,Michael,Neal,D012,Manager,Remote,2020-01-14,,Active,108584,E0707,6.38,5+ Years,$85K-$115K,0,1
+E0682,Gloria,Williams,D008,Analyst,Oklahoma,2018-12-11,,Active,65388,E0492,7.47,5+ Years,$60K-$85K,0,1
+E0683,Scott,Jordan,D009,Senior Analyst,Oklahoma,2021-05-18,,Active,101063,E0739,5.04,5+ Years,$85K-$115K,0,1
+E0684,Michael,Lewis,D005,Senior Analyst,Remote,2020-05-27,,Active,78993,E0588,6.01,5+ Years,$60K-$85K,0,1
+E0685,Daniel,Olson,D009,Associate,New York,2020-03-30,,Active,54441,E0918,6.17,5+ Years,<$60K,0,1
+E0686,Jennifer,Sawyer,D006,Director,Florida,2022-10-19,,Active,139599,E0298,3.62,3-5 Years,$115K-$150K,0,1
+E0687,Kyle,Green,D005,Manager,New York,2019-11-06,,Active,100179,E0355,6.57,5+ Years,$85K-$115K,0,1
+E0688,Nicholas,Goodman,D011,Associate,New York,2025-01-07,,Active,50403,E0766,1.4,1-3 Years,<$60K,0,1
+E0689,Sarah,Lucas,D004,Analyst,California,2022-10-14,,Active,61621,E0848,3.63,3-5 Years,$60K-$85K,0,1
+E0690,Maria,Castaneda,D005,Analyst,Oklahoma,2025-02-20,,Active,73416,E0713,1.28,1-3 Years,$60K-$85K,0,1
+E0691,Colton,Eaton,D003,Associate,Remote,2021-01-03,,Active,45579,E0631,5.41,5+ Years,<$60K,0,1
+E0692,Douglas,Howell,D010,Director,Florida,2022-07-26,,Active,145681,E0249,3.85,3-5 Years,$115K-$150K,0,1
+E0693,Joseph,Weber,D011,Senior Analyst,Texas,2022-09-12,,Active,104661,E0544,3.72,3-5 Years,$85K-$115K,0,1
+E0694,Melissa,Walker,D011,Senior Analyst,Florida,2020-05-28,,Active,82629,E0054,6.01,5+ Years,$60K-$85K,0,1
+E0695,Michael,Norris,D007,Director,New York,2020-04-17,,Active,151646,E0735,6.12,5+ Years,$150K+,0,1
+E0696,Rodney,Velasquez,D002,Associate,California,2024-11-02,2026-02-26,Terminated,46504,E0006,1.32,1-3 Years,<$60K,1,0
+E0697,Robert,Anderson,D003,Associate,New York,2024-10-30,,Active,55333,E0669,1.59,1-3 Years,<$60K,0,1
+E0698,Shannon,Johnson,D008,Associate,Oklahoma,2024-06-30,,Active,48535,E0775,1.92,1-3 Years,<$60K,0,1
+E0699,Brandon,Williams,D006,Analyst,Florida,2024-12-20,,Active,64352,E0662,1.45,1-3 Years,$60K-$85K,0,1
+E0700,Sarah,Bradley,D002,Analyst,Texas,2023-11-06,,Active,76374,E0588,2.57,1-3 Years,$60K-$85K,0,1
+E0701,Deborah,Carter,D009,Associate,Texas,2018-07-27,,Active,43222,E0936,7.85,5+ Years,<$60K,0,1
+E0702,Sabrina,Blankenship,D007,Associate,Florida,2020-11-13,,Active,47760,E0957,5.55,5+ Years,<$60K,0,1
+E0703,Anthony,Snyder,D007,Senior Analyst,Texas,2019-02-08,,Active,100819,E0508,7.31,5+ Years,$85K-$115K,0,1
+E0704,Alec,Jackson,D012,Senior Analyst,Oklahoma,2023-12-28,,Active,103583,E0949,2.43,1-3 Years,$85K-$115K,0,1
+E0705,Brenda,Rodriguez,D001,Analyst,California,2025-08-30,,Active,55303,E0306,0.75,<1 Year,<$60K,0,1
+E0706,Amanda,Aguilar,D010,Associate,Oklahoma,2025-10-21,2026-01-02,Terminated,45516,E0951,0.2,<1 Year,<$60K,1,0
+E0707,Jennifer,Beard,D005,Associate,California,2021-08-03,2026-02-21,Terminated,56888,E0657,4.55,3-5 Years,<$60K,1,0
+E0708,Christopher,Fletcher,D009,Analyst,Texas,2025-01-12,,Active,71184,E0911,1.38,1-3 Years,$60K-$85K,0,1
+E0709,Brian,Robinson,D009,Associate,Texas,2024-09-06,,Active,57336,E0280,1.73,1-3 Years,<$60K,0,1
+E0710,Angela,Cook,D002,Analyst,Remote,2025-03-15,,Active,65835,E0167,1.21,1-3 Years,$60K-$85K,0,1
+E0711,Richard,Smith,D008,Associate,Texas,2024-05-07,,Active,50430,E0736,2.07,1-3 Years,<$60K,0,1
+E0712,Zachary,Pope,D001,Associate,Oklahoma,2021-10-16,2024-10-23,Terminated,53046,E0810,3.02,3-5 Years,<$60K,1,0
+E0713,Robert,Oconnell,D010,Director,Texas,2022-02-21,,Active,174197,E0776,4.27,3-5 Years,$150K+,0,1
+E0714,James,Sexton,D003,Associate,New York,2019-07-23,,Active,55287,E0847,6.86,5+ Years,<$60K,0,1
+E0715,Heather,Bell,D009,Analyst,New York,2026-02-24,,Active,65745,E0089,0.27,<1 Year,$60K-$85K,0,1
+E0716,Christina,Morales,D011,Analyst,Texas,2019-12-06,,Active,58125,E0190,6.49,5+ Years,<$60K,0,1
+E0717,Shannon,Perry,D008,Analyst,Texas,2024-01-28,,Active,65603,E0959,2.34,1-3 Years,$60K-$85K,0,1
+E0718,Miguel,Barron,D001,Associate,Texas,2023-12-31,2024-09-25,Terminated,50545,E0393,0.74,<1 Year,<$60K,1,0
+E0719,Rick,Jones,D008,Associate,Oklahoma,2020-01-17,,Active,50748,E0977,6.37,5+ Years,<$60K,0,1
+E0720,Samantha,Carrillo,D005,Associate,Remote,2019-11-18,,Active,42374,E0268,6.54,5+ Years,<$60K,0,1
+E0721,Amanda,Lucas,D006,Director,Florida,2024-08-28,2025-11-05,Terminated,175401,E0242,1.19,1-3 Years,$150K+,1,0
+E0722,Lindsey,Wong,D011,Senior Analyst,Oklahoma,2022-06-07,,Active,78873,E0477,3.98,3-5 Years,$60K-$85K,0,1
+E0723,Richard,Bryant,D003,Manager,California,2023-10-23,,Active,121569,E0703,2.61,1-3 Years,$115K-$150K,0,1
+E0724,Nancy,Johnson,D012,Senior Analyst,Remote,2020-03-27,,Active,100226,E0319,6.18,5+ Years,$85K-$115K,0,1
+E0725,Todd,Zimmerman,D002,Manager,California,2019-05-16,,Active,114335,E0377,7.04,5+ Years,$85K-$115K,0,1
+E0726,Tiffany,Dixon,D004,Analyst,Texas,2020-05-26,,Active,62180,E0981,6.02,5+ Years,$60K-$85K,0,1
+E0727,Kyle,Johnson,D008,Manager,Remote,2025-02-10,,Active,105039,E0466,1.3,1-3 Years,$85K-$115K,0,1
+E0728,Jon,Barajas,D010,Associate,Remote,2019-09-12,,Active,54242,E0426,6.72,5+ Years,<$60K,0,1
+E0729,Frank,Mills,D009,Senior Analyst,California,2021-11-16,,Active,104910,E0483,4.54,3-5 Years,$85K-$115K,0,1
+E0730,Kevin,Hansen,D011,Associate,Texas,2021-08-22,,Active,49156,E0781,4.77,3-5 Years,<$60K,0,1
+E0731,Julia,Herman,D011,Analyst,Florida,2024-02-09,,Active,79731,E0611,2.31,1-3 Years,$60K-$85K,0,1
+E0732,Kelsey,Harris,D009,Associate,Remote,2022-07-27,,Active,56639,E0541,3.85,3-5 Years,<$60K,0,1
+E0733,Bruce,Garcia,D006,Director,California,2018-08-08,2025-06-23,Terminated,135118,E0940,6.87,5+ Years,$115K-$150K,1,0
+E0734,Philip,Mckay,D002,Director,California,2021-08-24,,Active,134047,E0849,4.77,3-5 Years,$115K-$150K,0,1
+E0735,Sara,White,D009,Manager,California,2021-03-14,,Active,108248,E0587,5.22,5+ Years,$85K-$115K,0,1
+E0736,William,Williams,D003,Analyst,California,2018-11-15,,Active,60391,E0336,7.54,5+ Years,$60K-$85K,0,1
+E0737,Elizabeth,Black,D008,Manager,Texas,2021-06-23,,Active,102617,E0697,4.94,3-5 Years,$85K-$115K,0,1
+E0738,Susan,Pope,D012,Associate,California,2018-11-17,,Active,58017,E0094,7.54,5+ Years,<$60K,0,1
+E0739,Lucas,Hines,D008,Senior Analyst,New York,2025-12-31,,Active,101499,E0057,0.42,<1 Year,$85K-$115K,0,1
+E0740,Kimberly,Little,D003,Senior Analyst,New York,2022-05-10,,Active,91818,E0426,4.06,3-5 Years,$85K-$115K,0,1
+E0741,Tonya,Perkins,D010,Senior Analyst,New York,2024-10-04,,Active,76891,E0573,1.66,1-3 Years,$60K-$85K,0,1
+E0742,Gregory,Foster,D011,Analyst,Florida,2021-06-09,2026-05-06,Terminated,65098,E0741,4.91,3-5 Years,$60K-$85K,1,0
+E0743,Amy,White,D007,Associate,Florida,2022-01-23,,Active,50338,E0837,4.35,3-5 Years,<$60K,0,1
+E0744,Julie,Brown,D012,Analyst,Florida,2020-05-11,,Active,62140,E0593,6.06,5+ Years,$60K-$85K,0,1
+E0745,Lindsey,Ward,D001,Analyst,Remote,2019-12-10,,Active,68883,E0353,6.48,5+ Years,$60K-$85K,0,1
+E0746,Jasmine,Morgan,D002,Associate,Florida,2024-08-30,,Active,59732,E0062,1.75,1-3 Years,<$60K,0,1
+E0747,Whitney,Wilson,D008,Associate,New York,2021-01-01,2022-05-13,Terminated,43039,E0294,1.36,1-3 Years,<$60K,1,0
+E0748,Monica,Lamb,D003,Analyst,Remote,2021-10-29,,Active,59437,E0785,4.59,3-5 Years,<$60K,0,1
+E0749,Stephanie,Hines,D012,Analyst,New York,2026-02-12,,Active,76164,E0987,0.3,<1 Year,$60K-$85K,0,1
+E0750,Kelsey,Cannon,D006,Analyst,New York,2025-01-31,,Active,67533,E0460,1.33,1-3 Years,$60K-$85K,0,1
+E0751,Jon,West,D007,Analyst,Remote,2022-08-17,,Active,57629,E0700,3.79,3-5 Years,<$60K,0,1
+E0752,Wayne,Davis,D009,Associate,Oklahoma,2023-09-15,,Active,46357,E0670,2.71,1-3 Years,<$60K,0,1
+E0753,Anthony,Gibson,D002,Analyst,New York,2024-04-27,,Active,60848,E0551,2.09,1-3 Years,$60K-$85K,0,1
+E0754,Rachel,Garcia,D009,Analyst,Texas,2019-05-14,,Active,59172,E0746,7.05,5+ Years,<$60K,0,1
+E0755,Jessica,Giles,D001,Analyst,Oklahoma,2022-06-30,,Active,79778,E0024,3.92,3-5 Years,$60K-$85K,0,1
+E0756,Meredith,Jones,D008,Senior Analyst,California,2021-05-05,,Active,97069,E0737,5.07,5+ Years,$85K-$115K,0,1
+E0757,Mathew,Brown,D007,Director,Texas,2022-04-01,2022-06-20,Terminated,164860,E0389,0.22,<1 Year,$150K+,1,0
+E0758,Marissa,Patterson,D004,Associate,Texas,2021-08-28,2024-03-07,Terminated,57093,E0355,2.52,1-3 Years,<$60K,1,0
+E0759,Evan,Sanchez,D005,Analyst,Remote,2024-04-29,,Active,61176,E0960,2.09,1-3 Years,$60K-$85K,0,1
+E0760,Jennifer,Olson,D002,Associate,Remote,2020-10-01,,Active,43055,E0829,5.66,5+ Years,<$60K,0,1
+E0761,Tina,Golden,D007,Associate,Texas,2024-09-01,,Active,42512,E0247,1.75,1-3 Years,<$60K,0,1
+E0762,James,Hamilton,D002,Analyst,Florida,2024-01-23,2026-01-29,Terminated,58306,E0609,2.02,1-3 Years,<$60K,1,0
+E0763,Timothy,Clark,D008,Analyst,Remote,2019-02-16,,Active,74588,E0689,7.29,5+ Years,$60K-$85K,0,1
+E0764,Laurie,Jacobs,D001,Associate,Florida,2020-11-16,,Active,50019,E0759,5.54,5+ Years,<$60K,0,1
+E0765,Virginia,Williams,D007,Senior Analyst,California,2023-10-11,,Active,89383,E0240,2.64,1-3 Years,$85K-$115K,0,1
+E0766,Connie,Martin,D004,Associate,California,2026-04-30,,Active,43849,E0144,0.09,<1 Year,<$60K,0,1
+E0767,Eric,Benson,D005,Senior Analyst,Remote,2023-11-10,,Active,82673,E0836,2.56,1-3 Years,$60K-$85K,0,1
+E0768,Tyler,Harris,D010,Analyst,California,2023-05-23,,Active,65449,E0592,3.03,3-5 Years,$60K-$85K,0,1
+E0769,Julia,Williams,D011,Associate,Oklahoma,2023-01-24,,Active,52507,E0243,3.35,3-5 Years,<$60K,0,1
+E0770,Christopher,Hunter,D003,Associate,New York,2019-10-26,,Active,59080,E0227,6.6,5+ Years,<$60K,0,1
+E0771,Charles,Stafford,D005,Senior Analyst,California,2021-12-12,2025-12-05,Terminated,84016,E0063,3.98,3-5 Years,$60K-$85K,1,0
+E0772,Timothy,Fernandez,D010,Analyst,Texas,2019-06-19,,Active,79091,E0934,6.95,5+ Years,$60K-$85K,0,1
+E0773,Julie,Bird,D011,Director,California,2019-10-01,,Active,174482,E0438,6.67,5+ Years,$150K+,0,1
+E0774,Mary,Ryan,D008,Senior Analyst,Oklahoma,2023-09-30,,Active,76536,E0996,2.67,1-3 Years,$60K-$85K,0,1
+E0775,Robin,Martinez,D011,Associate,California,2022-09-26,,Active,54489,E0805,3.68,3-5 Years,<$60K,0,1
+E0776,Tony,Coleman,D006,Director,New York,2019-02-21,,Active,175633,E0427,7.27,5+ Years,$150K+,0,1
+E0777,Frederick,Anderson,D003,Senior Analyst,Texas,2024-02-24,,Active,84826,E0386,2.27,1-3 Years,$60K-$85K,0,1
+E0778,Mark,Collins,D009,Associate,Texas,2021-10-01,,Active,57516,E0247,4.67,3-5 Years,<$60K,0,1
+E0779,Austin,Mason,D005,Analyst,New York,2025-01-29,,Active,78185,E0148,1.34,1-3 Years,$60K-$85K,0,1
+E0780,Andrea,Carroll,D001,Senior Analyst,New York,2022-07-04,,Active,93428,E0423,3.91,3-5 Years,$85K-$115K,0,1
+E0781,Michael,Brown,D009,Analyst,New York,2023-03-11,,Active,72366,E0138,3.23,3-5 Years,$60K-$85K,0,1
+E0782,Elizabeth,Brock,D004,Senior Analyst,Oklahoma,2025-09-06,,Active,83355,E0209,0.73,<1 Year,$60K-$85K,0,1
+E0783,Kristina,Freeman,D011,Senior Analyst,New York,2021-08-30,,Active,77590,E0945,4.75,3-5 Years,$60K-$85K,0,1
+E0784,Thomas,Martinez,D006,Senior Analyst,Remote,2021-09-02,2023-11-06,Terminated,78029,E0549,2.18,1-3 Years,$60K-$85K,1,0
+E0785,Rhonda,Mcdaniel,D004,Analyst,New York,2021-04-10,,Active,56688,E0275,5.14,5+ Years,<$60K,0,1
+E0786,Maria,Suarez,D011,Analyst,Florida,2022-07-03,,Active,74823,E0618,3.91,3-5 Years,$60K-$85K,0,1
+E0787,David,Schultz,D002,Senior Analyst,California,2019-03-23,,Active,81165,E0824,7.19,5+ Years,$60K-$85K,0,1
+E0788,Michael,Davis,D012,Associate,Texas,2019-06-12,2021-03-24,Terminated,49111,E0491,1.78,1-3 Years,<$60K,1,0
+E0789,Jennifer,Brown,D006,Associate,Florida,2019-07-13,,Active,51934,E0980,6.89,5+ Years,<$60K,0,1
+E0790,Yvonne,Ortega,D004,Analyst,Remote,2019-11-06,,Active,61226,E0986,6.57,5+ Years,$60K-$85K,0,1
+E0791,Edward,Anderson,D002,Associate,Texas,2018-07-15,,Active,57693,E0937,7.88,5+ Years,<$60K,0,1
+E0792,Michelle,Austin,D012,Analyst,Texas,2026-04-30,,Active,74805,E0721,0.09,<1 Year,$60K-$85K,0,1
+E0793,Lauren,Jones,D007,Director,Oklahoma,2022-05-30,,Active,145684,E0566,4.01,3-5 Years,$115K-$150K,0,1
+E0794,Robert,Marshall,D005,Senior Analyst,California,2022-10-24,,Active,87473,E0478,3.6,3-5 Years,$85K-$115K,0,1
+E0795,Madeline,Burke,D011,Analyst,Oklahoma,2021-07-05,,Active,66772,E0316,4.91,3-5 Years,$60K-$85K,0,1
+E0796,Tyler,Thomas,D006,Senior Analyst,New York,2024-01-25,,Active,91803,E0904,2.35,1-3 Years,$85K-$115K,0,1
+E0797,Angela,Jones,D008,Associate,Remote,2019-02-19,2023-11-01,Terminated,45231,E0823,4.7,3-5 Years,<$60K,1,0
+E0798,Derek,Guzman,D008,Senior Analyst,Oklahoma,2023-05-14,,Active,99957,E0860,3.05,3-5 Years,$85K-$115K,0,1
+E0799,Amber,Barber,D004,Associate,New York,2018-12-29,2022-04-15,Terminated,54147,E0321,3.29,3-5 Years,<$60K,1,0
+E0800,Leah,Hubbard,D001,Associate,Texas,2024-02-09,,Active,49250,E0760,2.31,1-3 Years,<$60K,0,1
+E0801,Wendy,Mack,D001,Associate,California,2020-05-30,,Active,50545,E0567,6.0,5+ Years,<$60K,0,1
+E0802,Amanda,Farrell,D010,Associate,Texas,2021-06-28,,Active,55683,E0303,4.93,3-5 Years,<$60K,0,1
+E0803,Jeremiah,Bryant,D004,Associate,New York,2019-11-27,,Active,52809,E0236,6.51,5+ Years,<$60K,0,1
+E0804,Jason,Collins,D010,Associate,California,2019-01-02,,Active,50052,E0512,7.41,5+ Years,<$60K,0,1
+E0805,Ryan,Wagner,D011,Associate,New York,2024-05-31,,Active,53061,E0264,2.0,1-3 Years,<$60K,0,1
+E0806,Tiffany,Ochoa,D012,Manager,Texas,2026-02-06,,Active,127151,E0472,0.31,<1 Year,$115K-$150K,0,1
+E0807,Robert,Bailey,D012,Analyst,Texas,2020-06-14,,Active,66540,E0174,5.96,5+ Years,$60K-$85K,0,1
+E0808,Zachary,Watson,D012,Associate,Texas,2018-09-25,,Active,59909,E0501,7.68,5+ Years,<$60K,0,1
+E0809,Kevin,Garcia,D009,Director,Florida,2019-07-12,,Active,172061,E0981,6.89,5+ Years,$150K+,0,1
+E0810,Richard,King,D009,Analyst,Florida,2026-04-24,,Active,56108,E0860,0.1,<1 Year,<$60K,0,1
+E0811,Robin,Dunn,D011,Analyst,Florida,2020-01-18,2021-05-01,Terminated,56589,E0783,1.28,1-3 Years,<$60K,1,0
+E0812,Darrell,Lopez,D007,Analyst,Remote,2019-06-10,,Active,59505,E0863,6.98,5+ Years,<$60K,0,1
+E0813,Stephanie,Reed,D004,Associate,Texas,2020-04-26,,Active,44227,E0725,6.1,5+ Years,<$60K,0,1
+E0814,Elizabeth,Parker,D001,Associate,New York,2023-04-02,,Active,49167,E0518,3.16,3-5 Years,<$60K,0,1
+E0815,Grace,Gregory,D006,Associate,Remote,2018-07-07,,Active,43980,E0633,7.9,5+ Years,<$60K,0,1
+E0816,Savannah,Valencia,D011,Senior Analyst,New York,2021-10-27,,Active,95202,E0935,4.59,3-5 Years,$85K-$115K,0,1
+E0817,Jacqueline,Pope,D011,Senior Analyst,Florida,2024-05-06,,Active,90986,E0017,2.07,1-3 Years,$85K-$115K,0,1
+E0818,Madison,Bautista,D009,Manager,Florida,2025-12-26,,Active,131152,E0422,0.43,<1 Year,$115K-$150K,0,1
+E0819,Darrell,Ibarra,D001,Analyst,Oklahoma,2019-11-15,2021-07-22,Terminated,72347,E0740,1.68,1-3 Years,$60K-$85K,1,0
+E0820,Angela,Warren,D009,Director,California,2021-04-02,,Active,148788,E0018,5.16,5+ Years,$115K-$150K,0,1
+E0821,Sarah,White,D012,Analyst,Texas,2025-10-19,,Active,77086,E0441,0.62,<1 Year,$60K-$85K,0,1
+E0822,Jaime,Adams,D002,Analyst,Texas,2023-12-04,,Active,58156,E0537,2.49,1-3 Years,<$60K,0,1
+E0823,Anita,Wilson,D004,Associate,California,2021-09-24,,Active,48289,E0635,4.68,3-5 Years,<$60K,0,1
+E0824,Michael,White,D005,Associate,New York,2025-04-04,,Active,53614,E0274,1.16,1-3 Years,<$60K,0,1
+E0825,Susan,Alvarez,D002,Senior Analyst,New York,2019-02-12,,Active,87224,E0983,7.3,5+ Years,$85K-$115K,0,1
+E0826,Tiffany,Boyd,D008,Associate,Texas,2026-02-14,,Active,49969,E0714,0.29,<1 Year,<$60K,0,1
+E0827,Melissa,Banks,D005,Associate,Remote,2020-02-28,,Active,44641,E0670,6.26,5+ Years,<$60K,0,1
+E0828,Shane,Phillips,D001,Associate,New York,2025-03-05,,Active,45063,E0416,1.24,1-3 Years,<$60K,0,1
+E0829,James,Ellis,D007,Analyst,Florida,2018-09-13,,Active,73110,E0488,7.72,5+ Years,$60K-$85K,0,1
+E0830,Bradley,Howard,D011,Analyst,Texas,2024-12-08,,Active,55309,E0720,1.48,1-3 Years,<$60K,0,1
+E0831,Anne,Sanchez,D002,Analyst,New York,2020-08-04,,Active,71379,E0866,5.82,5+ Years,$60K-$85K,0,1
+E0832,Erik,Jackson,D011,Manager,Florida,2024-01-12,,Active,116710,E0580,2.38,1-3 Years,$115K-$150K,0,1
+E0833,Jonathan,Carroll,D009,Director,Texas,2019-12-23,,Active,132788,E0236,6.44,5+ Years,$115K-$150K,0,1
+E0834,Nancy,Davis,D012,Associate,Florida,2018-12-31,,Active,57581,E0278,7.42,5+ Years,<$60K,0,1
+E0835,Diana,Greene,D002,Associate,California,2026-03-12,,Active,51187,E0921,0.22,<1 Year,<$60K,0,1
+E0836,Brenda,Bryant,D010,Analyst,Texas,2021-03-30,,Active,76564,E0034,5.17,5+ Years,$60K-$85K,0,1
+E0837,Ariel,Johnson,D006,Manager,Texas,2022-02-01,,Active,96026,E0985,4.33,3-5 Years,$85K-$115K,0,1
+E0838,Philip,Elliott,D010,Senior Analyst,Remote,2022-06-16,,Active,79724,E0771,3.96,3-5 Years,$60K-$85K,0,1
+E0839,William,Hoffman,D007,Associate,Texas,2023-12-14,,Active,44521,E0307,2.46,1-3 Years,<$60K,0,1
+E0840,Donna,Smith,D010,Associate,New York,2021-12-06,,Active,49879,E0581,4.48,3-5 Years,<$60K,0,1
+E0841,Elizabeth,Hobbs,D011,Associate,New York,2021-03-13,,Active,59713,E0340,5.22,5+ Years,<$60K,0,1
+E0842,Marissa,Weeks,D012,Analyst,Remote,2022-04-30,,Active,59585,E0810,4.09,3-5 Years,<$60K,0,1
+E0843,Michelle,Reed,D012,Associate,Remote,2020-11-12,,Active,44569,E0513,5.55,5+ Years,<$60K,0,1
+E0844,Annette,Roberson,D006,Manager,New York,2026-03-23,,Active,98519,E0101,0.19,<1 Year,$85K-$115K,0,1
+E0845,Jeffrey,Cox,D004,Analyst,California,2019-01-19,,Active,57490,E0349,7.36,5+ Years,<$60K,0,1
+E0846,Ricky,Hill,D010,Associate,Oklahoma,2022-12-26,,Active,54999,E0993,3.43,3-5 Years,<$60K,0,1
+E0847,Cole,Sanchez,D001,Analyst,New York,2019-04-28,2020-01-25,Terminated,75778,E0280,0.74,<1 Year,$60K-$85K,1,0
+E0848,Jamie,Williams,D008,Analyst,California,2025-11-25,2025-11-26,Terminated,62475,E0365,0.0,<1 Year,$60K-$85K,1,0
+E0849,Paul,Harris,D007,Associate,Remote,2025-01-06,,Active,56150,E0191,1.4,1-3 Years,<$60K,0,1
+E0850,Alyssa,Walker,D010,Director,Florida,2022-02-13,,Active,173297,E0390,4.3,3-5 Years,$150K+,0,1
+E0851,Jimmy,Sanchez,D010,Director,Texas,2022-05-03,,Active,149357,E0818,4.08,3-5 Years,$115K-$150K,0,1
+E0852,Nicole,Wilkins,D012,Associate,Oklahoma,2018-09-21,,Active,44408,E0085,7.69,5+ Years,<$60K,0,1
+E0853,Laura,Harmon,D003,Analyst,Remote,2019-10-19,2026-04-29,Terminated,67451,E0729,6.53,5+ Years,$60K-$85K,1,0
+E0854,Maria,Fritz,D003,Analyst,Oklahoma,2019-06-18,,Active,79237,E0399,6.95,5+ Years,$60K-$85K,0,1
+E0855,Christina,Johnson,D006,Analyst,Florida,2024-12-05,,Active,58491,E0094,1.49,1-3 Years,<$60K,0,1
+E0856,Paul,Nelson,D005,Associate,Oklahoma,2026-04-05,2026-05-01,Terminated,56573,E0369,0.07,<1 Year,<$60K,1,0
+E0857,Amanda,Wheeler,D002,Senior Analyst,Texas,2024-04-24,,Active,79341,E0090,2.1,1-3 Years,$60K-$85K,0,1
+E0858,Kathryn,Barnes,D007,Associate,California,2019-02-26,,Active,56707,E0571,7.26,5+ Years,<$60K,0,1
+E0859,Jennifer,Herman,D009,Associate,Florida,2022-03-05,,Active,55370,E0106,4.24,3-5 Years,<$60K,0,1
+E0860,Mary,Mendoza,D002,Director,Florida,2020-12-22,,Active,153194,E0568,5.44,5+ Years,$150K+,0,1
+E0861,Thomas,Ortega,D010,Associate,New York,2022-09-06,,Active,52630,E0885,3.73,3-5 Years,<$60K,0,1
+E0862,Stephanie,Barrera,D001,Associate,New York,2024-12-26,2025-11-24,Terminated,51563,E0424,0.91,<1 Year,<$60K,1,0
+E0863,Gerald,Hernandez,D002,Senior Analyst,California,2019-06-18,2021-02-12,Terminated,98751,E0923,1.66,1-3 Years,$85K-$115K,1,0
+E0864,Joanna,Robles,D004,Analyst,Texas,2021-04-08,,Active,73741,E0534,5.15,5+ Years,$60K-$85K,0,1
+E0865,John,Pearson,D011,Senior Analyst,Texas,2025-11-14,,Active,87475,E0174,0.54,<1 Year,$85K-$115K,0,1
+E0866,Matthew,Murphy,D005,Associate,New York,2022-11-26,,Active,51867,E0275,3.51,3-5 Years,<$60K,0,1
+E0867,Eric,Riggs,D003,Analyst,New York,2025-05-30,,Active,57073,E0172,1.0,<1 Year,<$60K,0,1
+E0868,Thomas,Fuller,D005,Associate,New York,2025-10-28,,Active,55798,E0307,0.59,<1 Year,<$60K,0,1
+E0869,Matthew,Rodriguez,D002,Analyst,Texas,2024-05-09,,Active,66833,E0258,2.06,1-3 Years,$60K-$85K,0,1
+E0870,Amanda,Weber,D012,Analyst,California,2018-12-25,,Active,75481,E0508,7.43,5+ Years,$60K-$85K,0,1
+E0871,Victor,Murray,D010,Senior Analyst,Florida,2019-09-30,,Active,81407,E0469,6.67,5+ Years,$60K-$85K,0,1
+E0872,Marco,Wood,D003,Senior Analyst,New York,2021-03-25,2024-01-25,Terminated,84983,E0007,2.84,1-3 Years,$60K-$85K,1,0
+E0873,Daniel,Johnson,D006,Analyst,Oklahoma,2023-04-04,,Active,75322,E0390,3.16,3-5 Years,$60K-$85K,0,1
+E0874,Martha,Gonzales,D008,Associate,Remote,2025-12-30,,Active,52968,E0441,0.42,<1 Year,<$60K,0,1
+E0875,Kevin,Manning,D010,Senior Analyst,Oklahoma,2019-04-19,,Active,79460,E0308,7.12,5+ Years,$60K-$85K,0,1
+E0876,Douglas,Holmes,D010,Analyst,New York,2020-10-27,,Active,77783,E0206,5.59,5+ Years,$60K-$85K,0,1
+E0877,Katie,Shannon,D006,Associate,New York,2021-01-28,,Active,47820,E0988,5.34,5+ Years,<$60K,0,1
+E0878,Antonio,Thomas,D006,Director,Remote,2020-02-10,,Active,149100,E0753,6.31,5+ Years,$115K-$150K,0,1
+E0879,Sarah,Beasley,D011,Director,California,2025-12-19,,Active,162178,E0991,0.45,<1 Year,$150K+,0,1
+E0880,Cynthia,Colon,D004,Associate,Oklahoma,2020-09-01,,Active,52678,E0386,5.75,5+ Years,<$60K,0,1
+E0881,Ronald,Mckenzie,D007,Analyst,California,2023-05-14,,Active,66960,E0117,3.05,3-5 Years,$60K-$85K,0,1
+E0882,Jonathan,Odom,D004,Associate,Remote,2022-11-28,,Active,59879,E0185,3.51,3-5 Years,<$60K,0,1
+E0883,Tracy,Hayes,D009,Associate,Remote,2024-05-07,,Active,42881,E0976,2.07,1-3 Years,<$60K,0,1
+E0884,Michael,Rodriguez,D008,Senior Analyst,New York,2023-01-25,,Active,98211,E0215,3.35,3-5 Years,$85K-$115K,0,1
+E0885,Dwayne,Phillips,D005,Analyst,New York,2020-12-09,,Active,77702,E0071,5.48,5+ Years,$60K-$85K,0,1
+E0886,Dawn,Curry,D011,Analyst,Remote,2019-06-10,,Active,71361,E0143,6.98,5+ Years,$60K-$85K,0,1
+E0887,Nancy,Case,D005,Manager,Remote,2018-06-16,,Active,110861,E0259,7.96,5+ Years,$85K-$115K,0,1
+E0888,Daniel,Shah,D003,Senior Analyst,New York,2023-05-14,,Active,98436,E0434,3.05,3-5 Years,$85K-$115K,0,1
+E0889,Christopher,Reynolds,D002,Senior Analyst,New York,2020-04-08,,Active,89715,E0613,6.15,5+ Years,$85K-$115K,0,1
+E0890,Ronnie,Aguirre,D010,Associate,California,2024-10-13,,Active,55133,E0548,1.63,1-3 Years,<$60K,0,1
+E0891,Jenny,Jones,D012,Associate,Florida,2025-08-20,,Active,55706,E0557,0.78,<1 Year,<$60K,0,1
+E0892,Laura,Collins,D006,Analyst,California,2020-03-20,,Active,77991,E0917,6.2,5+ Years,$60K-$85K,0,1
+E0893,Crystal,Rogers,D010,Senior Analyst,Florida,2024-06-30,,Active,95911,E0937,1.92,1-3 Years,$85K-$115K,0,1
+E0894,Brandon,Navarro,D002,Analyst,Remote,2026-03-24,,Active,63134,E0674,0.19,<1 Year,$60K-$85K,0,1
+E0895,Emily,Fritz,D006,Associate,California,2020-11-18,,Active,47450,E0663,5.53,5+ Years,<$60K,0,1
+E0896,Robert,Robinson,D001,Associate,Oklahoma,2026-02-18,,Active,55094,E0991,0.28,<1 Year,<$60K,0,1
+E0897,Bailey,Mitchell,D007,Analyst,Florida,2025-10-05,,Active,58471,E0011,0.65,<1 Year,<$60K,0,1
+E0898,Destiny,Woods,D005,Associate,Remote,2020-05-12,2023-07-24,Terminated,49274,E0523,3.2,3-5 Years,<$60K,1,0
+E0899,Alexander,Carlson,D009,Senior Analyst,Remote,2024-09-24,2025-09-10,Terminated,93284,E0595,0.96,<1 Year,$85K-$115K,1,0
+E0900,Kenneth,Noble,D010,Associate,Oklahoma,2021-01-06,2023-04-14,Terminated,49242,E0457,2.27,1-3 Years,<$60K,1,0
+E0901,Lawrence,Rush,D007,Director,Remote,2020-06-08,,Active,160347,E0791,5.98,5+ Years,$150K+,0,1
+E0902,Nicole,Maxwell,D010,Analyst,Texas,2018-09-09,,Active,77624,E0513,7.73,5+ Years,$60K-$85K,0,1
+E0903,Justin,Rios,D006,Associate,Florida,2019-05-17,,Active,42804,E0495,7.04,5+ Years,<$60K,0,1
+E0904,Sharon,Baker,D005,Senior Analyst,Florida,2025-12-30,,Active,88630,E0943,0.42,<1 Year,$85K-$115K,0,1
+E0905,Cheryl,Petersen,D002,Associate,Oklahoma,2020-03-09,2022-11-28,Terminated,46642,E0357,2.72,1-3 Years,<$60K,1,0
+E0906,Jacob,Banks,D006,Senior Analyst,Texas,2022-08-15,,Active,89920,E0804,3.79,3-5 Years,$85K-$115K,0,1
+E0907,Daniel,Smith,D009,Associate,New York,2024-04-27,2024-11-26,Terminated,57824,E0357,0.58,<1 Year,<$60K,1,0
+E0908,Caitlin,Hinton,D002,Associate,Remote,2022-09-01,,Active,56357,E0740,3.75,3-5 Years,<$60K,0,1
+E0909,Timothy,Daniels,D008,Associate,Oklahoma,2025-07-10,,Active,52450,E0069,0.89,<1 Year,<$60K,0,1
+E0910,Rebecca,Warren,D001,Analyst,Florida,2023-01-28,,Active,78290,E0118,3.34,3-5 Years,$60K-$85K,0,1
+E0911,Brandon,Roberts,D006,Associate,Texas,2019-09-25,,Active,45583,E0694,6.68,5+ Years,<$60K,0,1
+E0912,Stephanie,King,D012,Analyst,Texas,2018-06-30,,Active,62992,E0529,7.92,5+ Years,$60K-$85K,0,1
+E0913,Douglas,Oliver,D009,Analyst,California,2020-11-24,,Active,60247,E0339,5.52,5+ Years,$60K-$85K,0,1
+E0914,Kathleen,Hughes,D007,Associate,New York,2025-11-13,,Active,57140,E0238,0.55,<1 Year,<$60K,0,1
+E0915,Michelle,Klein,D011,Senior Analyst,Remote,2025-11-01,,Active,81044,E0191,0.58,<1 Year,$60K-$85K,0,1
+E0916,Betty,Moore,D011,Director,Florida,2023-08-20,,Active,158320,E0406,2.78,1-3 Years,$150K+,0,1
+E0917,Elizabeth,Robinson,D012,Analyst,Texas,2024-12-15,,Active,75123,E0905,1.46,1-3 Years,$60K-$85K,0,1
+E0918,William,Lopez,D008,Senior Analyst,New York,2024-08-02,,Active,94405,E0440,1.83,1-3 Years,$85K-$115K,0,1
+E0919,Jason,Morales,D001,Associate,Oklahoma,2024-01-22,,Active,49038,E0211,2.36,1-3 Years,<$60K,0,1
+E0920,Mark,Coleman,D012,Manager,Florida,2023-12-24,,Active,99100,E0592,2.44,1-3 Years,$85K-$115K,0,1
+E0921,Donald,Thomas,D009,Analyst,Oklahoma,2024-06-13,,Active,61126,E0375,1.97,1-3 Years,$60K-$85K,0,1
+E0922,Nancy,Perry,D004,Analyst,Oklahoma,2022-10-14,,Active,69993,E0117,3.63,3-5 Years,$60K-$85K,0,1
+E0923,Jessica,Wade,D011,Manager,Remote,2026-01-20,,Active,127078,E0541,0.36,<1 Year,$115K-$150K,0,1
+E0924,Angel,Fowler,D006,Associate,New York,2020-07-20,,Active,54734,E0626,5.86,5+ Years,<$60K,0,1
+E0925,Hayley,Adams,D010,Manager,Oklahoma,2021-08-23,,Active,102486,E0357,4.77,3-5 Years,$85K-$115K,0,1
+E0926,Todd,Christian,D008,Associate,Remote,2021-06-30,,Active,47653,E0834,4.92,3-5 Years,<$60K,0,1
+E0927,Taylor,Parks,D012,Manager,California,2025-02-27,,Active,114493,E0941,1.26,1-3 Years,$85K-$115K,0,1
+E0928,Danny,Ross,D010,Manager,Texas,2021-01-25,,Active,100554,E0689,5.35,5+ Years,$85K-$115K,0,1
+E0929,Julie,Summers,D006,Senior Analyst,Oklahoma,2018-06-12,,Active,78862,E0245,7.97,5+ Years,$60K-$85K,0,1
+E0930,Cody,Jones,D002,Senior Analyst,Remote,2025-05-11,,Active,80998,E0383,1.06,1-3 Years,$60K-$85K,0,1
+E0931,Edwin,Gonzalez,D003,Senior Analyst,New York,2020-11-08,,Active,91738,E0398,5.56,5+ Years,$85K-$115K,0,1
+E0932,Chad,Wood,D010,Associate,New York,2019-04-18,,Active,46517,E0589,7.12,5+ Years,<$60K,0,1
+E0933,Katelyn,Foster,D007,Director,Remote,2020-03-23,,Active,142173,E0499,6.19,5+ Years,$115K-$150K,0,1
+E0934,Deborah,Williams,D009,Associate,Texas,2019-01-21,,Active,47676,E0569,7.36,5+ Years,<$60K,0,1
+E0935,Joshua,Moss,D008,Associate,Texas,2020-08-02,,Active,51464,E0144,5.83,5+ Years,<$60K,0,1
+E0936,Timothy,Carpenter,D006,Senior Analyst,California,2025-07-26,,Active,102590,E0462,0.85,<1 Year,$85K-$115K,0,1
+E0937,Timothy,Schwartz,D001,Analyst,Florida,2025-08-30,,Active,66764,E0975,0.75,<1 Year,$60K-$85K,0,1
+E0938,Robert,Jones,D008,Senior Analyst,New York,2019-05-04,,Active,79473,E0200,7.08,5+ Years,$60K-$85K,0,1
+E0939,Dennis,King,D009,Analyst,New York,2022-02-26,,Active,71562,E0669,4.26,3-5 Years,$60K-$85K,0,1
+E0940,Anthony,Coleman,D007,Associate,Remote,2022-08-10,,Active,58112,E0426,3.81,3-5 Years,<$60K,0,1
+E0941,Sandra,Maldonado,D008,Senior Analyst,Florida,2023-04-20,,Active,91013,E0172,3.12,3-5 Years,$85K-$115K,0,1
+E0942,Renee,Barber,D010,Analyst,Texas,2021-03-26,,Active,56011,E0815,5.18,5+ Years,<$60K,0,1
+E0943,Lee,Griffith,D005,Associate,Texas,2024-03-27,,Active,43071,E0282,2.18,1-3 Years,<$60K,0,1
+E0944,Craig,Lloyd,D009,Associate,New York,2020-03-25,,Active,51459,E0173,6.18,5+ Years,<$60K,0,1
+E0945,Beverly,Thomas,D010,Senior Analyst,New York,2023-03-17,,Active,99330,E0792,3.21,3-5 Years,$85K-$115K,0,1
+E0946,Shannon,White,D009,Associate,California,2024-06-28,,Active,58738,E0116,1.92,1-3 Years,<$60K,0,1
+E0947,Adrienne,Gould,D002,Senior Analyst,California,2026-04-14,,Active,83778,E0794,0.13,<1 Year,$60K-$85K,0,1
+E0948,Janet,Harris,D006,Analyst,Florida,2019-02-04,,Active,72761,E0843,7.32,5+ Years,$60K-$85K,0,1
+E0949,Thomas,Whitney,D012,Analyst,Texas,2019-06-13,,Active,69462,E0560,6.97,5+ Years,$60K-$85K,0,1
+E0950,Ashley,White,D007,Analyst,Remote,2019-05-23,,Active,58355,E0754,7.03,5+ Years,<$60K,0,1
+E0951,Wanda,Davis,D004,Analyst,Florida,2021-12-05,2024-07-16,Terminated,64755,E0896,2.61,1-3 Years,$60K-$85K,1,0
+E0952,Joseph,Edwards,D008,Senior Analyst,Florida,2019-10-10,2023-04-01,Terminated,83611,E0357,3.47,3-5 Years,$60K-$85K,1,0
+E0953,Tara,Brennan,D008,Senior Analyst,Texas,2023-09-12,,Active,103353,E0121,2.72,1-3 Years,$85K-$115K,0,1
+E0954,Allison,Lawrence,D004,Director,Remote,2025-11-21,,Active,178340,E0603,0.53,<1 Year,$150K+,0,1
+E0955,Sarah,Brown,D006,Associate,California,2021-09-29,,Active,56030,E0170,4.67,3-5 Years,<$60K,0,1
+E0956,Kyle,Figueroa,D003,Associate,Texas,2023-08-30,,Active,48770,E0834,2.75,1-3 Years,<$60K,0,1
+E0957,Dustin,Wilson,D001,Director,California,2023-12-21,,Active,167360,E0360,2.44,1-3 Years,$150K+,0,1
+E0958,Sharon,Jones,D005,Analyst,Texas,2018-08-09,,Active,74557,E0552,7.81,5+ Years,$60K-$85K,0,1
+E0959,Gregory,Singh,D006,Manager,California,2025-04-09,,Active,114178,E0297,1.14,1-3 Years,$85K-$115K,0,1
+E0960,Rebecca,Smith,D005,Analyst,Remote,2024-11-19,,Active,71856,E0922,1.53,1-3 Years,$60K-$85K,0,1
+E0961,David,Hayes,D002,Senior Analyst,New York,2020-07-07,2023-11-13,Terminated,79442,E0986,3.35,3-5 Years,$60K-$85K,1,0
+E0962,Daniel,Murphy,D001,Analyst,Remote,2018-11-14,,Active,64087,E0888,7.55,5+ Years,$60K-$85K,0,1
+E0963,Kristen,Adams,D003,Senior Analyst,Texas,2024-10-25,2025-09-11,Terminated,97984,E0887,0.88,<1 Year,$85K-$115K,1,0
+E0964,Tara,Jackson,D004,Analyst,Oklahoma,2020-07-02,,Active,59792,E0729,5.91,5+ Years,<$60K,0,1
+E0965,James,Price,D004,Analyst,Remote,2020-03-25,2024-02-12,Terminated,79951,E0864,3.89,3-5 Years,$60K-$85K,1,0
+E0966,Victoria,Estrada,D007,Analyst,California,2021-06-15,,Active,71038,E0146,4.96,3-5 Years,$60K-$85K,0,1
+E0967,Michael,May,D011,Analyst,New York,2021-04-28,,Active,63805,E0643,5.09,5+ Years,$60K-$85K,0,1
+E0968,Tyler,Alexander,D007,Senior Analyst,Remote,2020-12-29,,Active,89810,E0078,5.42,5+ Years,$85K-$115K,0,1
+E0969,Amanda,Johnson,D002,Associate,Remote,2025-06-27,,Active,55200,E0528,0.93,<1 Year,<$60K,0,1
+E0970,Michael,Wagner,D005,Analyst,Oklahoma,2023-06-05,2024-05-02,Terminated,77764,E0959,0.91,<1 Year,$60K-$85K,1,0
+E0971,Donna,Vargas,D008,Associate,California,2020-05-16,,Active,57992,E0336,6.04,5+ Years,<$60K,0,1
+E0972,Earl,Aguirre,D001,Senior Analyst,Remote,2020-11-16,,Active,103472,E0793,5.54,5+ Years,$85K-$115K,0,1
+E0973,Carmen,Hendrix,D002,Senior Analyst,New York,2023-05-06,,Active,98951,E0996,3.07,3-5 Years,$85K-$115K,0,1
+E0974,Sheila,Gonzales,D011,Analyst,Oklahoma,2024-12-22,,Active,76762,E0715,1.44,1-3 Years,$60K-$85K,0,1
+E0975,Joseph,Henderson,D002,Associate,Texas,2025-12-28,,Active,59512,E0408,0.42,<1 Year,<$60K,0,1
+E0976,John,Love,D007,Associate,Oklahoma,2021-03-29,,Active,48941,E0507,5.17,5+ Years,<$60K,0,1
+E0977,Daniel,Underwood,D006,Analyst,California,2023-05-28,,Active,64292,E0346,3.01,3-5 Years,$60K-$85K,0,1
+E0978,Robert,Brown,D010,Director,New York,2022-09-11,,Active,138558,E0580,3.72,3-5 Years,$115K-$150K,0,1
+E0979,Kathryn,Smith,D006,Analyst,Florida,2018-11-18,,Active,77365,E0781,7.53,5+ Years,$60K-$85K,0,1
+E0980,Michaela,Stevens,D001,Analyst,New York,2024-02-18,,Active,58262,E0642,2.28,1-3 Years,<$60K,0,1
+E0981,Stephen,Harris,D001,Associate,Texas,2024-03-13,,Active,46071,E0952,2.22,1-3 Years,<$60K,0,1
+E0982,Kathy,Stout,D008,Senior Analyst,New York,2021-05-26,,Active,89959,E0001,5.02,5+ Years,$85K-$115K,0,1
+E0983,Margaret,Blanchard,D004,Analyst,Texas,2022-08-30,,Active,77563,E0932,3.75,3-5 Years,$60K-$85K,0,1
+E0984,Dana,Castro,D011,Associate,Oklahoma,2019-12-11,,Active,51891,E0163,6.47,5+ Years,<$60K,0,1
+E0985,Troy,Parker,D002,Associate,Florida,2024-05-03,2024-09-07,Terminated,53810,E0257,0.35,<1 Year,<$60K,1,0
+E0986,Barry,Morgan,D006,Associate,New York,2025-03-14,,Active,47423,E0054,1.22,1-3 Years,<$60K,0,1
+E0987,Christine,Valdez,D011,Associate,Remote,2024-10-31,,Active,52010,E0744,1.58,1-3 Years,<$60K,0,1
+E0988,Jacob,Buckley,D004,Associate,Florida,2020-06-14,,Active,56065,E0672,5.96,5+ Years,<$60K,0,1
+E0989,Aaron,Brown,D012,Associate,Texas,2019-09-15,,Active,45118,E0002,6.71,5+ Years,<$60K,0,1
+E0990,Elizabeth,Smith,D008,Manager,California,2025-12-03,,Active,100107,E0136,0.49,<1 Year,$85K-$115K,0,1
+E0991,Michelle,Ayers,D004,Associate,New York,2022-04-14,,Active,59021,E0697,4.13,3-5 Years,<$60K,0,1
+E0992,Robert,Weber,D001,Analyst,Oklahoma,2023-12-31,,Active,55264,E0713,2.42,1-3 Years,<$60K,0,1
+E0993,Brian,Hall,D002,Associate,Texas,2021-02-10,2021-08-04,Terminated,55838,E0711,0.48,<1 Year,<$60K,1,0
+E0994,Elizabeth,Vincent,D008,Senior Analyst,New York,2026-01-10,,Active,77320,E0235,0.39,<1 Year,$60K-$85K,0,1
+E0995,Mackenzie,Heath,D002,Analyst,Florida,2018-12-20,,Active,78945,E0826,7.45,5+ Years,$60K-$85K,0,1
+E0996,Erica,Rivera,D002,Senior Analyst,Oklahoma,2021-12-28,2025-10-06,Terminated,85267,E0377,3.77,3-5 Years,$85K-$115K,1,0
+E0997,Jason,Jones,D003,Analyst,Texas,2025-12-17,,Active,67541,E0793,0.45,<1 Year,$60K-$85K,0,1
+E0998,Elizabeth,Banks,D011,Senior Analyst,Florida,2024-01-23,,Active,97188,E0147,2.35,1-3 Years,$85K-$115K,0,1
+E0999,Lisa,Miller,D009,Director,California,2024-01-17,2025-11-21,Terminated,166915,E0009,1.85,1-3 Years,$150K+,1,0
+E1000,Gabrielle,Brown,D011,Associate,Oklahoma,2022-04-30,,Active,47377,E0451,4.09,3-5 Years,<$60K,0,1
